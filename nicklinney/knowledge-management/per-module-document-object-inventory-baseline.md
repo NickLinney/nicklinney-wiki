@@ -2,7 +2,7 @@
 title: Per-Module Document Object Inventory Baseline
 description: Baseline per-module inventory of current wiki document objects and procedural documentation gaps across the canonical NickLinney.* module set.
 published: true
-date: 2026-07-27T11:22:18.113Z
+date: 2026-07-27T11:23:47.396Z
 tags: inventory, documents, modules, knowledge-management, baseline
 editor: markdown
 dateCreated: 2026-07-27T11:06:35.358Z
@@ -52,7 +52,7 @@ Shared navigation pages, templates, and enterprise-wide hub pages are tracked se
 | `NickLinney.DataInfrastructure` | 2 | 1 | Minimum baseline established |
 | `NickLinney.DevOps` | 2 | 1 | Minimum baseline established |
 | `NickLinney.env` | 2 | 1 | Minimum baseline established |
-| `NickLinney.KnowledgeManagement` | 12 | 3 | Strong operational baseline |
+| `NickLinney.KnowledgeManagement` | 13 | 3 | Strong operational baseline |
 | `NickLinney.Modules` | 2 | 2 | Registry baseline established |
 | `NickLinney.Ops` | 1 | 2 | Initial recovered baseline |
 | `NickLinney.SecOps` | 2 | 1 | Minimum baseline established |
