@@ -2,7 +2,7 @@
 title: Enterprise Document Register
 description: Controlled register for key NickLinney.* documentation artifacts, including wiki-native records and source-backed recovery candidates.
 published: true
-date: 2026-07-27T10:38:21.528Z
+date: 2026-07-27T11:00:42.922Z
 tags: documents, register, knowledge-management, phase-2
 editor: markdown
 dateCreated: 2026-07-27T08:21:55.831Z
@@ -24,6 +24,7 @@ This current register covers:
 - upstream governance dependencies already represented in the wiki
 - newly reconciled source-backed candidate records identified from the `retrieved_projects` export corpus
 - recovered Phase 3 artifacts published on July 27, 2026
+- next-phase recovery artifacts for agent identity, reporting governance, and machine-readable register support published on July 27, 2026
 
 ## Controlled Wiki Records
 
@@ -38,17 +39,22 @@ This current register covers:
 | KM-REG-007 | Chat-Generated Artifact Recovery Procedure | NickLinney.KnowledgeManagement | Procedure | Canonical | Canonical | Wiki-native controlled artifact | `/nicklinney/knowledge-management/chat-generated-artifact-recovery-procedure` | Governs recovery from chat and transcript fragments. |
 | KM-REG-008 | Canonical Source Declaration Record Standard | NickLinney.KnowledgeManagement | Standard | Canonical | Canonical | Wiki-native controlled artifact | `/nicklinney/knowledge-management/canonical-source-declaration-record-standard` | Governs canonical-source resolution when duplicates exist. |
 | KM-REG-009 | Retrieved Project Source Reconciliation | NickLinney.KnowledgeManagement | Reconciliation Record | Canonical | Canonical | Wiki-native controlled artifact using retrieved export corpus | `/nicklinney/knowledge-management/retrieved-project-source-reconciliation` | Documents the first retrieval-backed reconciliation pass. |
+| KM-REG-010 | Enterprise Document Register Machine-Readable Companion | NickLinney.KnowledgeManagement | Structured Register Companion | Canonical | Canonical | Wiki-native controlled artifact informed by retrieval-backed recovery metadata | `/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion` | Adds confidence, approval authority, and supersession-ready fields for automation. |
 | GOV-REG-001 | Enterprise Document Inventory and Artifact Register | Enterprise Governance / Knowledge Management | Inventory Register | Reviewed | Candidate Canonical | Wiki page synthesized from enterprise inventory matrix | `/nicklinney/governance/enterprise-document-inventory-and-artifact-register` | Strong basis for register expansion; should later be linked to structured record exports. |
 | GOV-REG-002 | Module Registry | Enterprise Governance | Registry | Reviewed | Candidate Canonical | Wiki-native synthesized artifact | `/nicklinney/governance/module-registry` | Current formal registry of recognized modules. |
 | GOV-REG-003 | Software Documentation and Repository Architecture Standard | Enterprise Governance / NickLinney.SoftwareDevelopment | Standard | Reviewed | Candidate Canonical | Derived from source document | `/nicklinney/governance/software-documentation-and-repository-architecture-standard` | High-value upstream control artifact for document structure. |
 | GOV-REG-004 | Portfolio Model and Context Management | Enterprise Governance | Governance Standard | Reviewed | Candidate Canonical | Derived from source document | `/nicklinney/governance/portfolio-model-and-context-management` | Governs boundaries and context anchoring. |
 | GOV-REG-005 | Good Faith Diligence Rule | Enterprise Governance | Governance Rule | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/governance/good-faith-diligence-rule` | Recovered governance rule. |
+| GOV-REG-006 | Organizational Cadence and Enterprise Reporting Standard | Enterprise Governance | Governance Standard | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/governance/organizational-cadence-and-enterprise-reporting-standard` | Recovered layered reporting and historiographic governance model. |
+| GOV-REG-007 | Executive and Cabinet Meeting Record Standard | Enterprise Governance | Governance Standard | Canonical | Canonical | Wiki-native normalized artifact derived from recovered source-backed governance | `/nicklinney/governance/executive-and-cabinet-meeting-record-standard` | Normalizes meeting-record capture for decision lineage and retention. |
 | SEC-REG-001 | Risk Classification Framework | NickLinney.Security | Framework Standard | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/security/risk-classification-framework` | Recovered assurance framework. |
 | OPS-REG-001 | Virtual Cybernetic Enterprise Production Manual and SOP Guide | NickLinney.Ops / NickLinney.SoftwareFactory / NickLinney.Agents | Operating Manual / SOP | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide` | Recovered operations doctrine. |
 | STR-REG-001 | Constitutional Objective / Goal 1 | NickLinney.Strategy | Strategic Objective | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/strategy/constitutional-objective-goal-1` | Recovered strategy-root objective. |
 | STR-REG-002 | NickLinney Cybernetic Vision | NickLinney.Strategy | Vision Document | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/strategy/nicklinney-cybernetic-vision` | Recovered long-range cybernetic framing. |
 | STR-REG-003 | NickLinney Agentic Development Strategy | NickLinney.Strategy / NickLinney.Agents / NickLinney.CyberSense / NickLinney.SoftwareFactory | Strategy | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/strategy/nicklinney-agentic-development-strategy` | Recovered cross-module strategy. |
 | MOD-REG-001 | NickLinney.Modules Canonical Module Registry | NickLinney.Modules / NickLinney.Strategy | Module Registry | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/modules/canonical-module-registry` | Recovered module-catalog structure. |
+| AGT-REG-001 | NickLinney.Agents Executive Project Abstract | NickLinney.Agents | Executive Abstract | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/agents/executive-project-abstract` | Recovered executive positioning for the module. |
+| AGT-REG-002 | NickLinney.Agents Repository Information Architecture Draft | NickLinney.Agents | Repository Architecture Draft | Draft | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/agents/repository-information-architecture-draft` | Partial recovery preserving intended repository information domains. |
 | SYS-REG-001 | ADR Draft — Context Isolation and Agentic Cognitive Boundaries | NickLinney.System / NickLinney.Agents | ADR Draft Record | Draft | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries` | Partial recovery preserving title, rationale, and intended scope. |
 
 ## Reconciled Source-Backed Candidate Records
@@ -63,6 +69,9 @@ This current register covers:
 | SRC-REG-006 | NickLinney Agentic Development Strategy | NickLinney.Strategy / NickLinney.Agents / NickLinney.SoftwareFactory | Strategy | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4ef41bd90c819189f7db15b84e5a8e-nicklinney-strategy` chat `003_NickLinney_Agentic_Development_Strategy` | Now normalized into a controlled wiki artifact. |
 | SRC-REG-007 | NickLinney Cybernetic Vision | NickLinney.Strategy | Vision Document | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4ef41bd90c819189f7db15b84e5a8e-nicklinney-strategy` chat `005_NickLinney_Cybernetic_Vision...` | Now normalized into a controlled wiki artifact. |
 | SRC-REG-008 | ADR — Context Isolation and Agentic Cognitive Boundaries | NickLinney.System / NickLinney.Agents | ADR Draft Lead | Draft | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a1153728f0c819198b731c47bf16234-nicklinney-ops` planning export | Partial recovery only; full ADR body still needs reconstruction. |
+| SRC-REG-009 | Enterprise Reporting Framework / Organizational Cadence Lead | Enterprise Governance | Governance Standard Lead | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a0acd9d715c8191a9e57ae97945496e-business-design` chat `008_Marketing_PaaS_strategy...` | Now normalized into the cadence and reporting standard. |
+| SRC-REG-010 | NickLinney.Agents Executive Project Abstract | NickLinney.Agents | Executive Abstract | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a0df82eb84481919763836a51a1853d-nicklinney-agents` chat `003_Executive_Project_Abstract...` | Now normalized into a controlled wiki artifact. |
+| SRC-REG-011 | NickLinney.Agents Repository Architecture Lead | NickLinney.Agents | Repository Architecture Lead | Draft | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a1153728f0c819198b731c47bf16234-nicklinney-ops` planning matrix lines for repository design | Preserved as a partial recovery draft pending stronger structural evidence. |
 
 ## Interpretation Notes
 
@@ -82,14 +91,15 @@ For source-backed candidate records, the `Recovery Source` column points to the 
 
 ## Next Register Expansion Priorities
 
-1. Continue governance and architecture recovery, especially repository-architecture, operational-governance, and meeting-record standards.
-2. Recover additional module-specific executive abstracts and standards from the retrieved corpus.
-3. Add confidence, approval authority, and supersession fields in a more structured machine-readable companion artifact.
-4. Begin reconciling external-domain references against canonical ecosystem boundaries where useful.
+1. Continue repository-architecture recovery beyond current planning-level evidence, especially where reusable standards or scaffolds can be directly recovered.
+2. Recover additional module-specific executive abstracts and standards, with priority on modules still lacking dedicated landing and abstract pages.
+3. Expand the machine-readable companion into a fuller register export including relationship and approval normalization.
+4. Begin reconciling downstream derivative records, such as meeting packages and report classes, against the new governance standards.
 
 ## Related Pages
 
 - [Retrieved Project Source Reconciliation](/nicklinney/knowledge-management/retrieved-project-source-reconciliation)
 - [Enterprise Document Register Schema](/nicklinney/knowledge-management/enterprise-document-register-schema)
+- [Enterprise Document Register Machine-Readable Companion](/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion)
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
 - [Enterprise Document Inventory and Artifact Register](/nicklinney/governance/enterprise-document-inventory-and-artifact-register)
