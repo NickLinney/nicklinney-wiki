@@ -2,7 +2,7 @@
 title: Module Directory
 description: User-facing directory of major NickLinney.* modules and their current wiki entry points.
 published: true
-date: 2026-07-27T10:19:55.551Z
+date: 2026-07-27T10:28:38.555Z
 tags: nicklinney, modules, directory, navigation
 editor: markdown
 dateCreated: 2026-07-27T08:14:28.428Z
@@ -36,6 +36,14 @@ Portfolio rules, namespace discipline, repository architecture, module registry,
 - [Enterprise Document Inventory and Artifact Register](/nicklinney/governance/enterprise-document-inventory-and-artifact-register)
 - [Module Registry](/nicklinney/governance/module-registry)
 - [Good Faith Diligence Rule](/nicklinney/governance/good-faith-diligence-rule)
+
+### Strategy and Structure
+
+Long-range direction, constitutional objective, cybernetic portfolio framing, and module catalog structure.
+
+- [Constitutional Objective / Goal 1](/nicklinney/strategy/constitutional-objective-goal-1)
+- [NickLinney Cybernetic Vision](/nicklinney/strategy/nicklinney-cybernetic-vision)
+- [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry)
 
 ### Security
 
@@ -78,6 +86,13 @@ Reusable pages for standards, products, projects, ADRs, and governance records.
 - [Knowledge Management Strategy](/nicklinney/knowledge-management/strategy)
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
+
+### Strategy and Architecture Path
+
+- [Constitutional Objective / Goal 1](/nicklinney/strategy/constitutional-objective-goal-1)
+- [NickLinney Cybernetic Vision](/nicklinney/strategy/nicklinney-cybernetic-vision)
+- [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry)
+- [Module Registry](/nicklinney/governance/module-registry)
 
 ### Assurance and Operations Path
 
