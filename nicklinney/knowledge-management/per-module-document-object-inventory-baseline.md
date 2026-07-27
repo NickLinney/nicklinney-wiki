@@ -2,7 +2,7 @@
 title: Per-Module Document Object Inventory Baseline
 description: Baseline per-module inventory of current wiki document objects and procedural documentation gaps across the canonical NickLinney.* module set.
 published: true
-date: 2026-07-27T22:12:19.080Z
+date: 2026-07-27T22:34:29.748Z
 tags: inventory, documents, modules, knowledge-management, baseline
 editor: markdown
 dateCreated: 2026-07-27T11:06:35.358Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-27T11:06:35.358Z
 - Canonicality: Canonical
 - Created: July 27, 2026
 - Basis: current Wiki.JS page inventory reconciled against the canonical module registry
-- Updated: July 27, 2026 after zero-object, standards-layer, and third-layer module passes
+- Updated: July 27, 2026 after zero-object, standards-layer, third-layer, and fourth-layer module passes
 
 ## Purpose
 
@@ -37,7 +37,7 @@ For this baseline, a document object is any separately addressable wiki page int
 - strategy or plan
 - standard, procedure, framework, or manual
 - ADR or governance record
-- register, inventory, structured companion artifact, matrix, taxonomy, policy hierarchy, or decision record
+- register, inventory, structured companion artifact, matrix, taxonomy, policy hierarchy, decision record, lifecycle control, or evidence model
 
 Shared navigation pages, templates, and enterprise-wide hub pages are tracked separately and are not counted as direct module objects unless they are clearly owned by a module.
 
@@ -46,21 +46,21 @@ Shared navigation pages, templates, and enterprise-wide hub pages are tracked se
 | Module | Direct Objects | Cross-Module Supporting Objects | Procedural Posture |
 | --- | ---: | ---: | --- |
 | `NickLinney.System` | 1 | 2 | Partial recovery only |
-| `System` | 6 | 1 | Third-layer baseline established |
+| `System` | 8 | 1 | Fourth-layer baseline established |
 | `NickLinney.Agents` | 3 | 4 | Early baseline established |
-| `NickLinney.Contracts` | 6 | 1 | Third-layer baseline established |
-| `NickLinney.DataInfrastructure` | 6 | 1 | Third-layer baseline established |
-| `NickLinney.DevOps` | 6 | 1 | Third-layer baseline established |
-| `NickLinney.env` | 6 | 1 | Third-layer baseline established |
+| `NickLinney.Contracts` | 8 | 1 | Fourth-layer baseline established |
+| `NickLinney.DataInfrastructure` | 8 | 1 | Fourth-layer baseline established |
+| `NickLinney.DevOps` | 8 | 1 | Fourth-layer baseline established |
+| `NickLinney.env` | 8 | 1 | Fourth-layer baseline established |
 | `NickLinney.KnowledgeManagement` | 13 | 3 | Strong operational baseline |
 | `NickLinney.Modules` | 2 | 2 | Registry baseline established |
 | `NickLinney.Ops` | 1 | 2 | Initial recovered baseline |
-| `NickLinney.SecOps` | 6 | 1 | Third-layer baseline established |
+| `NickLinney.SecOps` | 8 | 1 | Fourth-layer baseline established |
 | `NickLinney.Security` | 2 | 2 | Initial recovered baseline |
 | `NickLinney.SoftwareFactory` | 0 | 3 | Cross-module references only |
 | `NickLinney.Strategy` | 3 | 2 | Initial recovered baseline |
-| `NickLinney.AutoGit` | 6 | 1 | Third-layer baseline established |
-| `NickLinney.YubiKey` | 6 | 1 | Third-layer baseline established |
+| `NickLinney.AutoGit` | 8 | 1 | Fourth-layer baseline established |
+| `NickLinney.YubiKey` | 8 | 1 | Fourth-layer baseline established |
 
 ## Detailed Module Inventory
 
@@ -90,7 +90,7 @@ Immediate missing minimum objects:
 
 ### System
 
-Procedural posture: third-layer baseline established.
+Procedural posture: fourth-layer baseline established.
 
 Direct objects:
 
@@ -102,6 +102,8 @@ Direct objects:
 | Research Experiment Index Schema | Schema | Canonical | `/nicklinney/system-incubation/research-experiment-index-schema` |
 | Promotion Decision Register | Register | Canonical | `/nicklinney/system-incubation/promotion-decision-register` |
 | Research Cluster Taxonomy | Taxonomy | Canonical | `/nicklinney/system-incubation/research-cluster-taxonomy` |
+| Experiment Lifecycle and Archival Procedure | Lifecycle Procedure | Canonical | `/nicklinney/system-incubation/experiment-lifecycle-and-archival-procedure` |
+| Promotion Evidence and Supersession Record | Evidence / Supersession Record | Canonical | `/nicklinney/system-incubation/promotion-evidence-and-supersession-record` |
 
 Cross-module supporting objects:
 
@@ -113,7 +115,7 @@ Immediate missing minimum objects:
 
 - experiment population records
 - thematic research cluster index entries
-- concept supersession or archival rules
+- concept lineage mappings from incubation to canonical destination artifacts
 
 ### NickLinney.Agents
 
@@ -145,7 +147,7 @@ Immediate missing minimum objects:
 
 ### NickLinney.Contracts
 
-Procedural posture: third-layer baseline established.
+Procedural posture: fourth-layer baseline established.
 
 Direct objects:
 
@@ -157,6 +159,8 @@ Direct objects:
 | Contract Review and Approval Procedure | Procedure | Canonical | `/nicklinney/contracts/contract-review-and-approval-procedure` |
 | Contract Artifact Register | Register | Canonical | `/nicklinney/contracts/contract-artifact-register` |
 | Compatibility and Versioning Policy Hierarchy | Policy Hierarchy | Canonical | `/nicklinney/contracts/compatibility-and-versioning-policy-hierarchy` |
+| Contract Exception and Waiver Decision Record | Exception / Decision Record | Canonical | `/nicklinney/contracts/contract-exception-and-waiver-decision-record` |
+| Contract Validation Evidence Model | Evidence Model | Canonical | `/nicklinney/contracts/contract-validation-evidence-model` |
 
 Cross-module supporting objects:
 
@@ -168,11 +172,11 @@ Immediate missing minimum objects:
 
 - dependency and integration register
 - contract catalog or schema inventory
-- contract exception decision records
+- interoperability rollout playbooks for breaking or conditional change classes
 
 ### NickLinney.DataInfrastructure
 
-Procedural posture: third-layer baseline established.
+Procedural posture: fourth-layer baseline established.
 
 Direct objects:
 
@@ -184,6 +188,8 @@ Direct objects:
 | Information Lifecycle Governance Record | Governance Record | Canonical | `/nicklinney/data-infrastructure/information-lifecycle-governance-record` |
 | Governed Storage Class Taxonomy | Taxonomy | Canonical | `/nicklinney/data-infrastructure/governed-storage-class-taxonomy` |
 | Data Infrastructure Decision Register | Decision Register | Canonical | `/nicklinney/data-infrastructure/data-infrastructure-decision-register` |
+| Synchronization and Replication Control Procedure | Procedure | Canonical | `/nicklinney/data-infrastructure/synchronization-and-replication-control-procedure` |
+| Metadata Stewardship and Lineage Evidence Model | Evidence Model | Canonical | `/nicklinney/data-infrastructure/metadata-stewardship-and-lineage-evidence-model` |
 
 Cross-module supporting objects:
 
@@ -193,13 +199,13 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- synchronization and replication governance
 - reference architecture for governed storage classes
-- metadata stewardship register
+- metadata stewardship operating assignments and population records
+- retention, archival, and disposal evidence workflows
 
 ### NickLinney.DevOps
 
-Procedural posture: third-layer baseline established.
+Procedural posture: fourth-layer baseline established.
 
 Direct objects:
 
@@ -211,6 +217,8 @@ Direct objects:
 | Release Control and Rollback Procedure | Procedure | Canonical | `/nicklinney/devops/release-control-and-rollback-procedure` |
 | Deployment Target Matrix | Matrix | Canonical | `/nicklinney/devops/deployment-target-matrix` |
 | DevOps Change Decision Register | Decision Register | Canonical | `/nicklinney/devops/devops-change-decision-register` |
+| Infrastructure as Code Control Procedure | Procedure | Canonical | `/nicklinney/devops/infrastructure-as-code-control-procedure` |
+| Deployment Validation Evidence Model | Evidence Model | Canonical | `/nicklinney/devops/deployment-validation-evidence-model` |
 
 Cross-module supporting objects:
 
@@ -220,13 +228,13 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- infrastructure-as-code governance record
-- validation evidence model
 - deployment exception register
+- environment-specific release runbooks
+- service verification and production acceptance evidence linkage
 
 ### NickLinney.env
 
-Procedural posture: third-layer baseline established.
+Procedural posture: fourth-layer baseline established.
 
 Direct objects:
 
@@ -238,6 +246,8 @@ Direct objects:
 | Environment Compatibility Matrix | Structured Record | Canonical | `/nicklinney/env/environment-compatibility-matrix` |
 | Managed Toolchain Profile Register | Register | Canonical | `/nicklinney/env/managed-toolchain-profile-register` |
 | Environment Governance Decision Record | Decision Record | Canonical | `/nicklinney/env/environment-governance-decision-record` |
+| Runtime and Package Management Policy | Policy | Canonical | `/nicklinney/env/runtime-and-package-management-policy` |
+| Environment Recovery and Support Exception Procedure | Procedure | Canonical | `/nicklinney/env/environment-recovery-and-support-exception-procedure` |
 
 Cross-module supporting objects:
 
@@ -247,9 +257,9 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- runtime and package-management policy
-- development-environment recovery procedure
-- support-exception register
+- explicit support-exception register
+- managed profile population records
+- environment verification evidence for supported baseline profiles
 
 ### NickLinney.KnowledgeManagement
 
@@ -336,7 +346,7 @@ Immediate missing minimum objects:
 
 ### NickLinney.SecOps
 
-Procedural posture: third-layer baseline established.
+Procedural posture: fourth-layer baseline established.
 
 Direct objects:
 
@@ -348,6 +358,8 @@ Direct objects:
 | Incident Response and Escalation Procedure | Procedure | Canonical | `/nicklinney/secops/incident-response-and-escalation-procedure` |
 | Security Operations Reporting Matrix | Matrix | Canonical | `/nicklinney/secops/security-operations-reporting-matrix` |
 | Security Operations Decision Register | Decision Register | Canonical | `/nicklinney/secops/security-operations-decision-register` |
+| Vulnerability Management Lifecycle Standard | Lifecycle Standard | Canonical | `/nicklinney/secops/vulnerability-management-lifecycle-standard` |
+| Defensive Automation Exception and Evidence Record | Exception / Evidence Record | Canonical | `/nicklinney/secops/defensive-automation-exception-and-evidence-record` |
 
 Cross-module supporting objects:
 
@@ -357,9 +369,9 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- vulnerability-management lifecycle record
-- defensive automation governance record
-- security-operations exception handling record
+- security-operations exception register with populated cases
+- vulnerability trend and closure analytics model
+- control mappings between detection classes and risk authorities
 
 ### NickLinney.Security
 
@@ -433,7 +445,7 @@ Immediate missing minimum objects:
 
 ### NickLinney.AutoGit
 
-Procedural posture: third-layer baseline established.
+Procedural posture: fourth-layer baseline established.
 
 Direct objects:
 
@@ -445,6 +457,8 @@ Direct objects:
 | Repository Lifecycle and Release Governance Standard | Standard | Canonical | `/nicklinney/autogit/repository-lifecycle-and-release-governance-standard` |
 | Repository Stewardship Register | Register | Canonical | `/nicklinney/autogit/repository-stewardship-register` |
 | Git Attribution Policy Record | Policy Record | Canonical | `/nicklinney/autogit/git-attribution-policy-record` |
+| Release Automation Control Procedure | Procedure | Canonical | `/nicklinney/autogit/release-automation-control-procedure` |
+| Repository Exception and Attribution Decision Register | Exception / Decision Register | Canonical | `/nicklinney/autogit/repository-exception-and-attribution-decision-register` |
 
 Cross-module supporting objects:
 
@@ -454,13 +468,13 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- release automation specification detail
-- repository exception register
-- attribution decision register for machine-assisted commits
+- release evidence population and sample governed releases
+- repository classification profile for differing stewardship models
+- automation-control mappings to approval authorities
 
 ### NickLinney.YubiKey
 
-Procedural posture: third-layer baseline established.
+Procedural posture: fourth-layer baseline established.
 
 Direct objects:
 
@@ -472,6 +486,8 @@ Direct objects:
 | Recovery and Replacement Procedure | Procedure | Canonical | `/nicklinney/yubikey/recovery-and-replacement-procedure` |
 | Hardware Trust Asset Register | Register | Canonical | `/nicklinney/yubikey/hardware-trust-asset-register` |
 | YubiKey Trust Policy Hierarchy | Policy Hierarchy | Canonical | `/nicklinney/yubikey/yubikey-trust-policy-hierarchy` |
+| Hardware Trust Lifecycle Control Standard | Lifecycle Standard | Canonical | `/nicklinney/yubikey/hardware-trust-lifecycle-control-standard` |
+| Trust Exception and Recovery Evidence Record | Exception / Evidence Record | Canonical | `/nicklinney/yubikey/trust-exception-and-recovery-evidence-record` |
 
 Cross-module supporting objects:
 
@@ -481,9 +497,9 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- operational key-management lifecycle record
 - secrets-integration governance record
-- trust exception decision register
+- operational key-management population records
+- trust restoration analytics and bounded emergency-access patterns
 
 ## Shared Enterprise Objects Not Counted As Direct Module Objects
 
@@ -498,10 +514,10 @@ These pages support the portfolio broadly and should remain visible in planning,
 
 To continue definitively and procedurally, the next-pass module work should be prioritized in this order:
 
-1. Third-layer baseline modules that now need fourth-layer operational detail: `NickLinney.Contracts`, `NickLinney.DataInfrastructure`, `NickLinney.DevOps`, `NickLinney.env`, `NickLinney.SecOps`, `NickLinney.AutoGit`, `NickLinney.YubiKey`, and `System`.
+1. Fourth-layer baseline modules that now need populated operational records, sample evidence instances, and real control-use objects: `NickLinney.Contracts`, `NickLinney.DataInfrastructure`, `NickLinney.DevOps`, `NickLinney.env`, `NickLinney.SecOps`, `NickLinney.AutoGit`, `NickLinney.YubiKey`, and `System`.
 2. Modules with partial recovery only: `NickLinney.System`, `NickLinney.Ops`, `NickLinney.Security`, and `NickLinney.SoftwareFactory`.
 3. Modules with early baseline but still incomplete direct object sets: `NickLinney.Agents`, `NickLinney.Modules`, and `NickLinney.Strategy`.
-4. Knowledge-management control refinement work that supports all later passes.
+4. Knowledge-management control refinement work that supports later procedural population and versioned evidence handling.
 
 ## Related Pages
 
