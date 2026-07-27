@@ -2,7 +2,7 @@
 title: NickLinney.YubiKey
 description: Module landing page for hardware-backed identity, authentication, authorization, secrets handling, and hardware-rooted trust procedures.
 published: true
-date: 2026-07-27T22:29:23.752Z
+date: 2026-07-27T22:56:54.534Z
 tags: nicklinney, module, baseline, yubikey
 editor: markdown
 dateCreated: 2026-07-27T11:17:36.565Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-27T11:17:36.565Z
 - Canonicality: Canonical
 - Origin: Wiki-native baseline artifact
 - Created: July 27, 2026
-- Updated: July 27, 2026 with standards-layer, third-layer, and fourth-layer artifacts
+- Updated: July 27, 2026 with standards-layer, third-layer, fourth-layer, and initial worked-example artifacts
 
 ## Purpose
 
@@ -44,6 +44,10 @@ This module is expected to own:
 - [YubiKey Trust Policy Hierarchy](/nicklinney/yubikey/yubikey-trust-policy-hierarchy)
 - [Hardware Trust Lifecycle Control Standard](/nicklinney/yubikey/hardware-trust-lifecycle-control-standard)
 - [Trust Exception and Recovery Evidence Record](/nicklinney/yubikey/trust-exception-and-recovery-evidence-record)
+
+## Initial Worked Examples
+
+- [Trust Lifecycle Example — Administrative Hardware Trust Baseline (July 27, 2026)](/nicklinney/yubikey/trust-lifecycle-example-administrative-hardware-trust-baseline-2026-07-27)
 
 ## Next-Layer Priorities
 
