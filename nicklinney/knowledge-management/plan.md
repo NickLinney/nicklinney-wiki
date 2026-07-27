@@ -2,7 +2,7 @@
 title: Knowledge Management Plan
 description: Implementation plan for operationalizing NickLinney.KnowledgeManagement and populating the wiki with controlled, versioned, historically retained artifacts.
 published: true
-date: 2026-07-27T08:07:56.197Z
+date: 2026-07-27T10:13:47.509Z
 tags: wiki, knowledge-management, plan, implementation
 editor: markdown
 dateCreated: 2026-07-27T08:07:56.197Z
@@ -38,8 +38,15 @@ Required actions:
 - capture current source location where known
 - mark confidence and recovery priority
 - note canonical-source ambiguity
+- reconcile retrieved chat-export evidence against inferred inventory records
 
-Output: the knowledge estate becomes sortable and triageable.
+Primary retrieval source for the current pass:
+
+```text
+/Users/nrlin/Codex Projects/ChatGPT Project Retrieval/retrieved_projects
+```
+
+Output: the knowledge estate becomes sortable, triageable, and increasingly source-backed.
 
 ## Phase 3: Recover High-Value Canonical Artifacts
 
@@ -62,7 +69,7 @@ For each module, create:
 
 - module landing page
 - core governing standards
-n- key records and templates
+- key records and templates
 - relationships to products, projects, and evidence
 
 Priority order should begin with governance-heavy and cross-cutting modules.
@@ -109,3 +116,9 @@ The plan is materially complete when:
 - every foundational artifact has either a canonical page or explicit recovery status
 - lifecycle states are consistently visible
 - the wiki can explain both the current truth and the history of how it got there
+
+## Related Pages
+
+- [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
+- [Retrieved Project Source Reconciliation](/nicklinney/knowledge-management/retrieved-project-source-reconciliation)
+- [Chat-Generated Artifact Recovery Procedure](/nicklinney/knowledge-management/chat-generated-artifact-recovery-procedure)
