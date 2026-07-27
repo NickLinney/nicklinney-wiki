@@ -2,7 +2,7 @@
 title: Enterprise Document Register
 description: Controlled register for key NickLinney.* documentation artifacts, including wiki-native records and source-backed recovery candidates.
 published: true
-date: 2026-07-27T11:06:38.231Z
+date: 2026-07-27T11:22:19.101Z
 tags: documents, register, knowledge-management, phase-2
 editor: markdown
 dateCreated: 2026-07-27T08:21:55.831Z
@@ -26,6 +26,7 @@ This current register covers:
 - recovered Phase 3 artifacts published on July 27, 2026
 - next-phase recovery artifacts for agent identity, reporting governance, and machine-readable register support published on July 27, 2026
 - procedural per-module inventory control artifacts published on July 27, 2026
+- zero-object module baseline artifacts published on July 27, 2026
 
 ## Controlled Wiki Records
 
@@ -58,6 +59,22 @@ This current register covers:
 | AGT-REG-001 | NickLinney.Agents Executive Project Abstract | NickLinney.Agents | Executive Abstract | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/agents/executive-project-abstract` | Recovered executive positioning for the module. |
 | AGT-REG-002 | NickLinney.Agents Repository Information Architecture Draft | NickLinney.Agents | Repository Architecture Draft | Draft | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/agents/repository-information-architecture-draft` | Partial recovery preserving intended repository information domains. |
 | SYS-REG-001 | ADR Draft — Context Isolation and Agentic Cognitive Boundaries | NickLinney.System / NickLinney.Agents | ADR Draft Record | Draft | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries` | Partial recovery preserving title, rationale, and intended scope. |
+| SYS-REG-002 | System Incubation Project | System | Project Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/system-incubation` | Establishes the distinct pre-canonical research space separate from `NickLinney.System`. |
+| SYS-REG-003 | System Executive Research Baseline | System | Executive Research Baseline | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/system-incubation/executive-research-baseline` | Baseline executive framing for the incubation space. |
+| CTR-REG-001 | NickLinney.Contracts | NickLinney.Contracts | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/contracts` | Minimum procedural baseline landing page. |
+| CTR-REG-002 | NickLinney.Contracts Executive Baseline Abstract | NickLinney.Contracts | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/contracts/executive-baseline-abstract` | Baseline executive framing pending deeper standards recovery. |
+| DAT-REG-001 | NickLinney.DataInfrastructure | NickLinney.DataInfrastructure | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/data-infrastructure` | Minimum procedural baseline landing page. |
+| DAT-REG-002 | NickLinney.DataInfrastructure Executive Baseline Abstract | NickLinney.DataInfrastructure | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/data-infrastructure/executive-baseline-abstract` | Baseline executive framing pending standards development. |
+| DVO-REG-001 | NickLinney.DevOps | NickLinney.DevOps | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/devops` | Minimum procedural baseline landing page. |
+| DVO-REG-002 | NickLinney.DevOps Executive Baseline Abstract | NickLinney.DevOps | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/devops/executive-baseline-abstract` | Baseline executive framing pending delivery-governance standards. |
+| ENV-REG-001 | NickLinney.env | NickLinney.env | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/env` | Minimum procedural baseline landing page. |
+| ENV-REG-002 | NickLinney.env Executive Baseline Abstract | NickLinney.env | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/env/executive-baseline-abstract` | Baseline executive framing for reproducible environment governance. |
+| SECOPS-REG-001 | NickLinney.SecOps | NickLinney.SecOps | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/secops` | Minimum procedural baseline landing page. |
+| SECOPS-REG-002 | NickLinney.SecOps Executive Baseline Abstract | NickLinney.SecOps | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/secops/executive-baseline-abstract` | Baseline executive framing for operational cybersecurity work. |
+| AGIT-REG-001 | NickLinney.AutoGit | NickLinney.AutoGit | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/autogit` | Minimum procedural baseline landing page. |
+| AGIT-REG-002 | NickLinney.AutoGit Executive Baseline Abstract | NickLinney.AutoGit | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/autogit/executive-baseline-abstract` | Baseline executive framing for Git governance and automation. |
+| YUB-REG-001 | NickLinney.YubiKey | NickLinney.YubiKey | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/yubikey` | Minimum procedural baseline landing page. |
+| YUB-REG-002 | NickLinney.YubiKey Executive Baseline Abstract | NickLinney.YubiKey | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/yubikey/executive-baseline-abstract` | Baseline executive framing for hardware-rooted identity governance. |
 
 ## Reconciled Source-Backed Candidate Records
 
@@ -94,7 +111,7 @@ For source-backed candidate records, the `Recovery Source` column points to the 
 ## Next Register Expansion Priorities
 
 1. Continue repository-architecture recovery beyond current planning-level evidence, especially where reusable standards or scaffolds can be directly recovered.
-2. Recover additional module-specific executive abstracts and standards, with priority on modules still lacking dedicated landing and abstract pages.
+2. Recover additional module-specific standards and procedures, with priority on the newly baselined modules that now have landing and executive artifacts but no governed standards yet.
 3. Expand the machine-readable companion into a fuller register export including relationship and approval normalization.
 4. Begin reconciling downstream derivative records, such as meeting packages and report classes, against the new governance standards.
 
