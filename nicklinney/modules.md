@@ -2,7 +2,7 @@
 title: Module Directory
 description: User-facing directory of major NickLinney.* modules and their current wiki entry points.
 published: true
-date: 2026-07-27T10:44:30.663Z
+date: 2026-07-27T10:45:07.511Z
 tags: nicklinney, modules, directory, navigation
 editor: markdown
 dateCreated: 2026-07-27T08:14:28.428Z
@@ -34,7 +34,7 @@ Documentation control, provenance, versioning, historical retention, artifact re
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
 
 ### Governance
-n
+
 Portfolio rules, namespace discipline, repository architecture, module registry, and enterprise document inventory.
 
 - [Portfolio Model and Context Management](/nicklinney/governance/portfolio-model-and-context-management)
