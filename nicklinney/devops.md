@@ -2,7 +2,7 @@
 title: NickLinney.DevOps
 description: Module landing page for engineering automation, CI/CD, infrastructure as code, deployment workflows, and release governance.
 published: true
-date: 2026-07-27T22:29:18.956Z
+date: 2026-07-27T22:56:51.315Z
 tags: nicklinney, module, baseline, devops
 editor: markdown
 dateCreated: 2026-07-27T11:17:32.380Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-27T11:17:32.380Z
 - Canonicality: Canonical
 - Origin: Wiki-native baseline artifact
 - Created: July 27, 2026
-- Updated: July 27, 2026 with standards-layer, third-layer, and fourth-layer artifacts
+- Updated: July 27, 2026 with standards-layer, third-layer, fourth-layer, and initial worked-example artifacts
 
 ## Purpose
 
@@ -44,6 +44,10 @@ This module is expected to own:
 - [DevOps Change Decision Register](/nicklinney/devops/devops-change-decision-register)
 - [Infrastructure as Code Control Procedure](/nicklinney/devops/infrastructure-as-code-control-procedure)
 - [Deployment Validation Evidence Model](/nicklinney/devops/deployment-validation-evidence-model)
+
+## Initial Worked Examples
+
+- [Deployment Validation Example — Wiki Fourth-Layer Publication Batch (July 27, 2026)](/nicklinney/devops/deployment-validation-example-wiki-fourth-layer-publication-2026-07-27)
 
 ## Next-Layer Priorities
 
