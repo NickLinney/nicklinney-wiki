@@ -2,7 +2,7 @@
 title: Home
 description: WikiJS home page for the NickLinney.* ecosystem knowledge base.
 published: true
-date: 2026-07-27T08:21:26.969Z
+date: 2026-07-27T10:19:56.322Z
 tags: nicklinney, home, wiki
 editor: markdown
 dateCreated: 2026-07-27T07:55:51.915Z
@@ -29,6 +29,13 @@ This wiki is the structured knowledge space for governance, architecture, securi
 - [Knowledge Management Strategy](/nicklinney/knowledge-management/strategy)
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
+- [Retrieved Project Source Reconciliation](/nicklinney/knowledge-management/retrieved-project-source-reconciliation)
+
+### Recently Recovered
+
+- [Risk Classification Framework](/nicklinney/security/risk-classification-framework)
+- [Virtual Cybernetic Enterprise Production Manual and SOP Guide](/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide)
+- [Good Faith Diligence Rule](/nicklinney/governance/good-faith-diligence-rule)
 
 ### Core Governance
 
@@ -54,6 +61,13 @@ This wiki is the structured knowledge space for governance, architecture, securi
 - [NickLinney.KnowledgeManagement](/nicklinney/knowledge-management)
 - [Document Control and Publication Standard](/nicklinney/knowledge-management/document-control-and-publication-standard)
 - [Enterprise Document Register Schema](/nicklinney/knowledge-management/enterprise-document-register-schema)
+
+### Assurance and Organizational Doctrine
+
+- [Safety and Assurance Charter](/nicklinney/security/safety-and-assurance-charter)
+- [Risk Classification Framework](/nicklinney/security/risk-classification-framework)
+- [Virtual Cybernetic Enterprise Production Manual and SOP Guide](/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide)
+- [Good Faith Diligence Rule](/nicklinney/governance/good-faith-diligence-rule)
 
 ## Purpose
 
