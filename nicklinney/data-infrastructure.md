@@ -2,7 +2,7 @@
 title: NickLinney.DataInfrastructure
 description: Module landing page for enterprise data architecture, storage models, metadata, synchronization, and information lifecycle governance.
 published: true
-date: 2026-07-27T11:17:31.388Z
+date: 2026-07-27T11:31:29.334Z
 tags: nicklinney, module, baseline, data-infrastructure
 editor: markdown
 dateCreated: 2026-07-27T11:17:31.388Z
@@ -16,6 +16,7 @@ dateCreated: 2026-07-27T11:17:31.388Z
 - Canonicality: Canonical
 - Origin: Wiki-native baseline artifact
 - Created: July 27, 2026
+- Updated: July 27, 2026 with standards-layer artifacts
 
 ## Purpose
 
@@ -34,16 +35,17 @@ This module is expected to own:
 - information lifecycle controls
 - data-governance and persistence records
 
-## Initial Documentation Objects
+## Controlled Documentation Objects
 
 - [NickLinney.DataInfrastructure Executive Baseline Abstract](/nicklinney/data-infrastructure/executive-baseline-abstract)
+- [Metadata and Indexing Standard](/nicklinney/data-infrastructure/metadata-and-indexing-standard)
+- [Information Lifecycle Governance Record](/nicklinney/data-infrastructure/information-lifecycle-governance-record)
 
-## Immediate Documentation Priorities
+## Next-Layer Priorities
 
 - data domain and storage taxonomy
-- metadata and indexing standard
-- information lifecycle and retention architecture
 - synchronization and replication governance
+- reference architecture for governed storage classes
 
 ## Related Pages
 
