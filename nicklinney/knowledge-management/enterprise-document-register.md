@@ -2,7 +2,7 @@
 title: Enterprise Document Register
 description: Initial controlled register for key NickLinney.* documentation artifacts, beginning with Knowledge Management records and upstream governance dependencies.
 published: true
-date: 2026-07-27T08:21:55.831Z
+date: 2026-07-27T10:13:45.731Z
 tags: documents, register, knowledge-management, phase-2
 editor: markdown
 dateCreated: 2026-07-27T08:21:55.831Z
@@ -18,12 +18,13 @@ It records logical document identities, current control metadata, canonicality s
 
 ## Register Scope
 
-This initial seed covers:
+This current register covers:
 
 - the core Knowledge Management control artifacts created for the wiki program
-- a small set of upstream governance dependencies that strongly influence document control and discovery
+- upstream governance dependencies already represented in the wiki
+- newly reconciled source-backed candidate records identified from the `retrieved_projects` export corpus
 
-## Seed Records
+## Controlled Wiki Records
 
 | Record ID | Title | Owning Module | Class | Status | Canonicality | Source Origin | Wiki Path | Notes |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -35,32 +36,50 @@ This initial seed covers:
 | KM-REG-006 | Enterprise Document Register Schema | NickLinney.KnowledgeManagement | Schema Standard | Canonical | Canonical | Wiki-native controlled artifact | `/nicklinney/knowledge-management/enterprise-document-register-schema` | Defines minimum register fields. |
 | KM-REG-007 | Chat-Generated Artifact Recovery Procedure | NickLinney.KnowledgeManagement | Procedure | Canonical | Canonical | Wiki-native controlled artifact | `/nicklinney/knowledge-management/chat-generated-artifact-recovery-procedure` | Governs recovery from chat and transcript fragments. |
 | KM-REG-008 | Canonical Source Declaration Record Standard | NickLinney.KnowledgeManagement | Standard | Canonical | Canonical | Wiki-native controlled artifact | `/nicklinney/knowledge-management/canonical-source-declaration-record-standard` | Governs canonical-source resolution when duplicates exist. |
+| KM-REG-009 | Retrieved Project Source Reconciliation | NickLinney.KnowledgeManagement | Reconciliation Record | Canonical | Canonical | Wiki-native controlled artifact using retrieved export corpus | `/nicklinney/knowledge-management/retrieved-project-source-reconciliation` | Documents the first retrieval-backed reconciliation pass. |
 | GOV-REG-001 | Enterprise Document Inventory and Artifact Register | Enterprise Governance / Knowledge Management | Inventory Register | Reviewed | Candidate Canonical | Wiki page synthesized from enterprise inventory matrix | `/nicklinney/governance/enterprise-document-inventory-and-artifact-register` | Strong basis for register expansion; should later be linked to structured record exports. |
 | GOV-REG-002 | Module Registry | Enterprise Governance | Registry | Reviewed | Candidate Canonical | Wiki-native synthesized artifact | `/nicklinney/governance/module-registry` | Current formal registry of recognized modules. |
 | GOV-REG-003 | Software Documentation and Repository Architecture Standard | Enterprise Governance / NickLinney.SoftwareDevelopment | Standard | Reviewed | Candidate Canonical | Derived from source document | `/nicklinney/governance/software-documentation-and-repository-architecture-standard` | High-value upstream control artifact for document structure. |
 | GOV-REG-004 | Portfolio Model and Context Management | Enterprise Governance | Governance Standard | Reviewed | Candidate Canonical | Derived from source document | `/nicklinney/governance/portfolio-model-and-context-management` | Governs boundaries and context anchoring. |
 
+## Reconciled Source-Backed Candidate Records
+
+| Record ID | Title | Owning Module | Class | Status | Canonicality | Source Origin | Recovery Source | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| SRC-REG-001 | Risk Classification Framework | NickLinney.Security | Framework Standard | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4ef7d1f9ec81919f5f72b77957a988-nicklinney-security` chat inventory and `004_Risk_Classification_Framework` | Previously treated as generated-only; now directly evidenced by retrieved export. |
+| SRC-REG-002 | Virtual Cybernetic Enterprise Manual / Standard Operating Procedure | NickLinney.Ops / NickLinney.Agents | Operating Manual / SOP | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a0acd9d715c8191a9e57ae97945496e-business-design` chat `001_Virtual_Cybernetic_Enterprise_Manual` | Strong recovery lead for the virtual-enterprise operating document family. |
+| SRC-REG-003 | Good Faith Diligence Rule | Enterprise Governance | Governance Rule | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a0acd9d715c8191a9e57ae97945496e-business-design` chat `003_Good_faith_diligence_rule...` | The export explicitly preserves the SOP-oriented source chat. |
+| SRC-REG-004 | NickLinney Modules Index / Portfolio and Module Registry Lead | NickLinney.Strategy | Registry Lead | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4fd8c552f88191b6da36886c161f5f-nicklinney-modules` chat `002_NickLinney_Modules_Index...` | Direct evidence for module-list recovery and refinement of the formal registry. |
+| SRC-REG-005 | Goal: Create Cybernetic Software Ecosystem | NickLinney.Strategy | Strategic Objective | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4ef41bd90c819189f7db15b84e5a8e-nicklinney-strategy` project manifest | Strong recovery lead for constitutional or strategy-root objective material. |
+| SRC-REG-006 | NickLinney Agentic Development Strategy | NickLinney.Strategy / NickLinney.Agents / NickLinney.SoftwareFactory | Strategy | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4ef41bd90c819189f7db15b84e5a8e-nicklinney-strategy` project manifest | Directly evidenced project source for a strategy artifact already referenced in the enterprise matrix. |
+
 ## Interpretation Notes
 
 ### Status
 
-This seed register uses the controlled states introduced by the Document Control and Publication Standard.
+This register uses the controlled states introduced by the Document Control and Publication Standard.
 
 ### Canonicality
 
 `Canonical` means the page is presently treated as the authoritative controlled wiki artifact.
 
-`Candidate Canonical` means the page is acting as the best available controlled representation, but may later need explicit reconciliation with external files, recovered chat artifacts, or more formal repository-backed sources.
+`Candidate Canonical` means the page is acting as the best available controlled representation, or that a concrete retrieval source has been identified but final normalization and approval remain pending.
+
+### Recovery Source
+
+For source-backed candidate records, the `Recovery Source` column points to the retrieved-project export evidence rather than to an already-normalized canonical wiki page.
 
 ## Next Register Expansion Priorities
 
-1. Add the remaining high-value governance standards and module records.
-2. Register foundational chat-generated but unrecovered artifacts such as the Risk Classification Framework and Repository Information Architecture Standard.
-3. Add confidence, approval authority, and supersession fields in a more structured machine-readable companion artifact.
-4. Begin module-by-module register population, starting with Knowledge Management and Governance.
+1. Recover and normalize `Risk Classification Framework` into a dedicated wiki artifact.
+2. Recover the `Virtual Cybernetic Enterprise` document family into controlled operational pages.
+3. Use the modules and strategy exports to refine the module registry and strategy-root records.
+4. Add confidence, approval authority, and supersession fields in a more structured machine-readable companion artifact.
+5. Continue scanning retrieved exports for explicit ADR, repository-architecture, and governance-record source conversations.
 
 ## Related Pages
 
+- [Retrieved Project Source Reconciliation](/nicklinney/knowledge-management/retrieved-project-source-reconciliation)
 - [Enterprise Document Register Schema](/nicklinney/knowledge-management/enterprise-document-register-schema)
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
 - [Enterprise Document Inventory and Artifact Register](/nicklinney/governance/enterprise-document-inventory-and-artifact-register)
