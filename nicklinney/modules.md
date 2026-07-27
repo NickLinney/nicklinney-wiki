@@ -2,7 +2,7 @@
 title: Module Directory
 description: User-facing directory of major NickLinney.* modules and their current wiki entry points.
 published: true
-date: 2026-07-27T11:22:20.027Z
+date: 2026-07-27T22:14:33.161Z
 tags: nicklinney, modules, directory, navigation
 editor: markdown
 dateCreated: 2026-07-27T08:14:28.428Z
@@ -50,6 +50,8 @@ Foundational semantics, research incubation, and platform-adjacent control layer
 
 - [System Incubation Project](/nicklinney/system-incubation)
 - [System Executive Research Baseline](/nicklinney/system-incubation/executive-research-baseline)
+- [Promotion Decision Register](/nicklinney/system-incubation/promotion-decision-register)
+- [Research Cluster Taxonomy](/nicklinney/system-incubation/research-cluster-taxonomy)
 - [ADR Draft — Context Isolation and Agentic Cognitive Boundaries](/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries)
 - [NickLinney.Contracts](/nicklinney/contracts)
 - [NickLinney.DataInfrastructure](/nicklinney/data-infrastructure)
@@ -59,8 +61,11 @@ Foundational semantics, research incubation, and platform-adjacent control layer
 Environment governance, automation, repository discipline, and delivery control.
 
 - [NickLinney.DevOps](/nicklinney/devops)
+- [Deployment Target Matrix](/nicklinney/devops/deployment-target-matrix)
 - [NickLinney.env](/nicklinney/env)
+- [Managed Toolchain Profile Register](/nicklinney/env/managed-toolchain-profile-register)
 - [NickLinney.AutoGit](/nicklinney/autogit)
+- [Repository Stewardship Register](/nicklinney/autogit/repository-stewardship-register)
 - [Guide and Standards](/nicklinney/software-development/guide-and-standards)
 - [Software Documentation and Repository Architecture Standard](/nicklinney/governance/software-documentation-and-repository-architecture-standard)
 
@@ -69,7 +74,9 @@ Environment governance, automation, repository discipline, and delivery control.
 Assurance, operational security, and hardware-rooted trust.
 
 - [NickLinney.SecOps](/nicklinney/secops)
+- [Security Operations Reporting Matrix](/nicklinney/secops/security-operations-reporting-matrix)
 - [NickLinney.YubiKey](/nicklinney/yubikey)
+- [Hardware Trust Asset Register](/nicklinney/yubikey/hardware-trust-asset-register)
 - [Safety and Assurance Charter](/nicklinney/security/safety-and-assurance-charter)
 - [Risk Classification Framework](/nicklinney/security/risk-classification-framework)
 
@@ -107,6 +114,21 @@ Virtual-enterprise operating doctrine, organizational cadence, governance synchr
 Reusable pages for standards, products, projects, ADRs, and governance records.
 
 - [Template Library](/nicklinney/templates)
+
+## Third-Layer Control Highlights
+
+These links surface the newest governed control objects without requiring readers to open each module first.
+
+- [Contract Artifact Register](/nicklinney/contracts/contract-artifact-register)
+- [Compatibility and Versioning Policy Hierarchy](/nicklinney/contracts/compatibility-and-versioning-policy-hierarchy)
+- [Governed Storage Class Taxonomy](/nicklinney/data-infrastructure/governed-storage-class-taxonomy)
+- [Data Infrastructure Decision Register](/nicklinney/data-infrastructure/data-infrastructure-decision-register)
+- [DevOps Change Decision Register](/nicklinney/devops/devops-change-decision-register)
+- [Environment Governance Decision Record](/nicklinney/env/environment-governance-decision-record)
+- [Security Operations Decision Register](/nicklinney/secops/security-operations-decision-register)
+- [Git Attribution Policy Record](/nicklinney/autogit/git-attribution-policy-record)
+- [YubiKey Trust Policy Hierarchy](/nicklinney/yubikey/yubikey-trust-policy-hierarchy)
+- [Promotion Decision Register](/nicklinney/system-incubation/promotion-decision-register)
 
 ## Suggested Reading Paths
 
@@ -157,3 +179,5 @@ Reusable pages for standards, products, projects, ADRs, and governance records.
 - [Document Control and Publication Standard](/nicklinney/knowledge-management/document-control-and-publication-standard)
 - [Document Naming and Ownership Standard](/nicklinney/knowledge-management/document-naming-and-ownership-standard)
 - [Enterprise Document Register Schema](/nicklinney/knowledge-management/enterprise-document-register-schema)
+- [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
+- [Per-Module Document Object Inventory Baseline](/nicklinney/knowledge-management/per-module-document-object-inventory-baseline)
