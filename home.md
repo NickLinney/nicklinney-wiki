@@ -2,7 +2,7 @@
 title: Home
 description: WikiJS home page for the NickLinney.* ecosystem knowledge base.
 published: true
-date: 2026-07-27T10:19:56.322Z
+date: 2026-07-27T10:28:39.361Z
 tags: nicklinney, home, wiki
 editor: markdown
 dateCreated: 2026-07-27T07:55:51.915Z
@@ -36,6 +36,9 @@ This wiki is the structured knowledge space for governance, architecture, securi
 - [Risk Classification Framework](/nicklinney/security/risk-classification-framework)
 - [Virtual Cybernetic Enterprise Production Manual and SOP Guide](/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide)
 - [Good Faith Diligence Rule](/nicklinney/governance/good-faith-diligence-rule)
+- [Constitutional Objective / Goal 1](/nicklinney/strategy/constitutional-objective-goal-1)
+- [NickLinney Cybernetic Vision](/nicklinney/strategy/nicklinney-cybernetic-vision)
+- [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry)
 
 ### Core Governance
 
@@ -61,6 +64,13 @@ This wiki is the structured knowledge space for governance, architecture, securi
 - [NickLinney.KnowledgeManagement](/nicklinney/knowledge-management)
 - [Document Control and Publication Standard](/nicklinney/knowledge-management/document-control-and-publication-standard)
 - [Enterprise Document Register Schema](/nicklinney/knowledge-management/enterprise-document-register-schema)
+
+### Strategy and Architecture
+
+- [Constitutional Objective / Goal 1](/nicklinney/strategy/constitutional-objective-goal-1)
+- [NickLinney Cybernetic Vision](/nicklinney/strategy/nicklinney-cybernetic-vision)
+- [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry)
+- [Module Registry](/nicklinney/governance/module-registry)
 
 ### Assurance and Organizational Doctrine
 
