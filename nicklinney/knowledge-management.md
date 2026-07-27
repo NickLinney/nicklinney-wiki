@@ -2,7 +2,7 @@
 title: NickLinney.KnowledgeManagement
 description: Module landing page for knowledge management, document control, versioning, provenance, and historical retention across the NickLinney.* ecosystem.
 published: true
-date: 2026-07-27T10:13:46.640Z
+date: 2026-07-27T11:06:36.489Z
 tags: nicklinney, governance, knowledge-management, versioning, history
 editor: markdown
 dateCreated: 2026-07-27T08:07:53.015Z
@@ -54,6 +54,8 @@ This module is responsible for:
 
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
 - [Retrieved Project Source Reconciliation](/nicklinney/knowledge-management/retrieved-project-source-reconciliation)
+- [Enterprise Document Register Machine-Readable Companion](/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion)
+- [Per-Module Document Object Inventory Baseline](/nicklinney/knowledge-management/per-module-document-object-inventory-baseline)
 
 ## Core Control Artifacts
 
