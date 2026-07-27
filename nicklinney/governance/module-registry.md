@@ -2,7 +2,7 @@
 title: Module Registry
 description: Formal registry of recognized NickLinney.* ecosystem modules, their purposes, and governing relationships.
 published: true
-date: 2026-07-27T08:21:28.762Z
+date: 2026-07-27T10:28:37.786Z
 tags: nicklinney, governance, modules, registry
 editor: markdown
 dateCreated: 2026-07-27T07:55:54.226Z
@@ -17,6 +17,8 @@ This page is the formal registry of recognized modules within the NickLinney.* e
 A module is a named, governed conceptual or operational domain with a distinct purpose, boundary, and relationship to the wider ecosystem.
 
 For a more user-facing exploration experience, see the [Module Directory](/nicklinney/modules).
+
+For the retrieved-export-backed registry recovery, see [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry).
 
 ## Registry Rules
 
@@ -136,5 +138,6 @@ Each module should gain its own dedicated page with:
 ## Related Pages
 
 - [Module Directory](/nicklinney/modules)
+- [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry)
 - [Enterprise Document Inventory and Artifact Register](/nicklinney/governance/enterprise-document-inventory-and-artifact-register)
 - [NickLinney.* Ecosystem](/nicklinney)
