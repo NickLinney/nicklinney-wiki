@@ -2,7 +2,7 @@
 title: NickLinney.KnowledgeManagement
 description: Module landing page for knowledge management, document control, versioning, provenance, and historical retention across the NickLinney.* ecosystem.
 published: true
-date: 2026-07-27T08:07:53.015Z
+date: 2026-07-27T10:13:46.640Z
 tags: nicklinney, governance, knowledge-management, versioning, history
 editor: markdown
 dateCreated: 2026-07-27T08:07:53.015Z
@@ -50,7 +50,12 @@ This module is responsible for:
 - declaration of canonical source when copies diverge
 - version-history expectations for wiki publication and supersession
 
-## Initial Core Artifacts
+## Current Phase 2 Artifacts
+
+- [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
+- [Retrieved Project Source Reconciliation](/nicklinney/knowledge-management/retrieved-project-source-reconciliation)
+
+## Core Control Artifacts
 
 - [Knowledge Management Inventory and Dependency Map](/nicklinney/knowledge-management/inventory-and-dependency-map)
 - [Knowledge Management Strategy](/nicklinney/knowledge-management/strategy)
@@ -66,3 +71,4 @@ This module is responsible for:
 - [Enterprise Document Inventory and Artifact Register](/nicklinney/governance/enterprise-document-inventory-and-artifact-register)
 - [Module Registry](/nicklinney/governance/module-registry)
 - [Software Documentation and Repository Architecture Standard](/nicklinney/governance/software-documentation-and-repository-architecture-standard)
+- [Module Directory](/nicklinney/modules)
