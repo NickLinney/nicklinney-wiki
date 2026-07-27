@@ -2,7 +2,7 @@
 title: Module Registry
 description: Formal registry of recognized NickLinney.* ecosystem modules, their purposes, and governing relationships.
 published: true
-date: 2026-07-27T07:55:54.226Z
+date: 2026-07-27T08:21:28.762Z
 tags: nicklinney, governance, modules, registry
 editor: markdown
 dateCreated: 2026-07-27T07:55:54.226Z
@@ -16,6 +16,8 @@ This page is the formal registry of recognized modules within the NickLinney.* e
 
 A module is a named, governed conceptual or operational domain with a distinct purpose, boundary, and relationship to the wider ecosystem.
 
+For a more user-facing exploration experience, see the [Module Directory](/nicklinney/modules).
+
 ## Registry Rules
 
 Each module should eventually have:
@@ -28,6 +30,14 @@ Each module should eventually have:
 - authoritative source documents
 
 ## Registered Modules
+
+### NickLinney.KnowledgeManagement
+
+Purpose: governs document control, provenance, versioning, historical retention, canonical-source declaration, and recovery of fragmented artifacts.
+
+Classification: knowledge governance and document-control domain.
+
+Primary page: [NickLinney.KnowledgeManagement](/nicklinney/knowledge-management)
 
 ### NickLinney.Security
 
@@ -106,6 +116,7 @@ Classification: foundational system namespace.
 The ecosystem currently reflects a layered pattern:
 
 - governance and assurance modules establish constraints
+- knowledge-management modules preserve the document estate and historical memory
 - software-development and software modules govern engineering and asset structure
 - operations and DevOps modules govern execution and deployment
 - agents, CyberSense, SyntheOS, and SoftwareFactory govern autonomy and orchestration
@@ -124,5 +135,6 @@ Each module should gain its own dedicated page with:
 
 ## Related Pages
 
+- [Module Directory](/nicklinney/modules)
 - [Enterprise Document Inventory and Artifact Register](/nicklinney/governance/enterprise-document-inventory-and-artifact-register)
 - [NickLinney.* Ecosystem](/nicklinney)
