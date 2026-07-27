@@ -2,7 +2,7 @@
 title: NickLinney.DevOps
 description: Module landing page for engineering automation, CI/CD, infrastructure as code, deployment workflows, and release governance.
 published: true
-date: 2026-07-27T11:17:32.380Z
+date: 2026-07-27T11:31:30.238Z
 tags: nicklinney, module, baseline, devops
 editor: markdown
 dateCreated: 2026-07-27T11:17:32.380Z
@@ -16,6 +16,7 @@ dateCreated: 2026-07-27T11:17:32.380Z
 - Canonicality: Canonical
 - Origin: Wiki-native baseline artifact
 - Created: July 27, 2026
+- Updated: July 27, 2026 with standards-layer artifacts
 
 ## Purpose
 
@@ -34,16 +35,17 @@ This module is expected to own:
 - release engineering controls
 - operational delivery governance
 
-## Initial Documentation Objects
+## Controlled Documentation Objects
 
 - [NickLinney.DevOps Executive Baseline Abstract](/nicklinney/devops/executive-baseline-abstract)
+- [CI/CD and Deployment Governance Standard](/nicklinney/devops/cicd-and-deployment-governance-standard)
+- [Release Control and Rollback Procedure](/nicklinney/devops/release-control-and-rollback-procedure)
 
-## Immediate Documentation Priorities
+## Next-Layer Priorities
 
-- CI/CD architecture standard
-- deployment and environment promotion rules
-- infrastructure-as-code governance
-- release-control and rollback procedure set
+- infrastructure-as-code governance record
+- deployment target taxonomy
+- validation evidence model
 
 ## Related Pages
 
