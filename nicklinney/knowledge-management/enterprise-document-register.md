@@ -2,7 +2,7 @@
 title: Enterprise Document Register
 description: Controlled register for key NickLinney.* documentation artifacts, including wiki-native records and source-backed recovery candidates.
 published: true
-date: 2026-07-27T11:22:19.101Z
+date: 2026-07-27T11:34:57.437Z
 tags: documents, register, knowledge-management, phase-2
 editor: markdown
 dateCreated: 2026-07-27T08:21:55.831Z
@@ -27,6 +27,7 @@ This current register covers:
 - next-phase recovery artifacts for agent identity, reporting governance, and machine-readable register support published on July 27, 2026
 - procedural per-module inventory control artifacts published on July 27, 2026
 - zero-object module baseline artifacts published on July 27, 2026
+- standards-layer module artifacts published on July 27, 2026
 
 ## Controlled Wiki Records
 
@@ -61,20 +62,36 @@ This current register covers:
 | SYS-REG-001 | ADR Draft — Context Isolation and Agentic Cognitive Boundaries | NickLinney.System / NickLinney.Agents | ADR Draft Record | Draft | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries` | Partial recovery preserving title, rationale, and intended scope. |
 | SYS-REG-002 | System Incubation Project | System | Project Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/system-incubation` | Establishes the distinct pre-canonical research space separate from `NickLinney.System`. |
 | SYS-REG-003 | System Executive Research Baseline | System | Executive Research Baseline | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/system-incubation/executive-research-baseline` | Baseline executive framing for the incubation space. |
+| SYS-REG-004 | Canonical Promotion and Concept Review Procedure | System | Procedure | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/system-incubation/canonical-promotion-and-concept-review-procedure` | Governs review and promotion of incubating concepts into canonical modules. |
+| SYS-REG-005 | Research Experiment Index Schema | System | Schema | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/system-incubation/research-experiment-index-schema` | Defines the minimum structured record for incubation concepts and experiments. |
 | CTR-REG-001 | NickLinney.Contracts | NickLinney.Contracts | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/contracts` | Minimum procedural baseline landing page. |
 | CTR-REG-002 | NickLinney.Contracts Executive Baseline Abstract | NickLinney.Contracts | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/contracts/executive-baseline-abstract` | Baseline executive framing pending deeper standards recovery. |
+| CTR-REG-003 | Interface and Schema Taxonomy Standard | NickLinney.Contracts | Standard | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/contracts/interface-and-schema-taxonomy-standard` | Defines controlled contract object classes and naming rules. |
+| CTR-REG-004 | Contract Review and Approval Procedure | NickLinney.Contracts | Procedure | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/contracts/contract-review-and-approval-procedure` | Governs proposal, review, approval, and supersession of contract artifacts. |
 | DAT-REG-001 | NickLinney.DataInfrastructure | NickLinney.DataInfrastructure | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/data-infrastructure` | Minimum procedural baseline landing page. |
 | DAT-REG-002 | NickLinney.DataInfrastructure Executive Baseline Abstract | NickLinney.DataInfrastructure | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/data-infrastructure/executive-baseline-abstract` | Baseline executive framing pending standards development. |
+| DAT-REG-003 | Metadata and Indexing Standard | NickLinney.DataInfrastructure | Standard | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/data-infrastructure/metadata-and-indexing-standard` | Defines baseline metadata and discoverability expectations. |
+| DAT-REG-004 | Information Lifecycle Governance Record | NickLinney.DataInfrastructure | Governance Record | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/data-infrastructure/information-lifecycle-governance-record` | Defines baseline lifecycle-state expectations for information objects. |
 | DVO-REG-001 | NickLinney.DevOps | NickLinney.DevOps | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/devops` | Minimum procedural baseline landing page. |
 | DVO-REG-002 | NickLinney.DevOps Executive Baseline Abstract | NickLinney.DevOps | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/devops/executive-baseline-abstract` | Baseline executive framing pending delivery-governance standards. |
+| DVO-REG-003 | CI/CD and Deployment Governance Standard | NickLinney.DevOps | Standard | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/devops/cicd-and-deployment-governance-standard` | Governs automated pipeline, promotion, and deployment controls. |
+| DVO-REG-004 | Release Control and Rollback Procedure | NickLinney.DevOps | Procedure | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/devops/release-control-and-rollback-procedure` | Defines controlled release execution and rollback flow. |
 | ENV-REG-001 | NickLinney.env | NickLinney.env | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/env` | Minimum procedural baseline landing page. |
 | ENV-REG-002 | NickLinney.env Executive Baseline Abstract | NickLinney.env | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/env/executive-baseline-abstract` | Baseline executive framing for reproducible environment governance. |
+| ENV-REG-003 | Bootstrap and Provisioning Standard | NickLinney.env | Standard | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/env/bootstrap-and-provisioning-standard` | Governs repeatable environment bootstrap and provisioning expectations. |
+| ENV-REG-004 | Environment Compatibility Matrix | NickLinney.env | Structured Record | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/env/environment-compatibility-matrix` | Defines the minimum controlled structure for supported environment profiles. |
 | SECOPS-REG-001 | NickLinney.SecOps | NickLinney.SecOps | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/secops` | Minimum procedural baseline landing page. |
 | SECOPS-REG-002 | NickLinney.SecOps Executive Baseline Abstract | NickLinney.SecOps | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/secops/executive-baseline-abstract` | Baseline executive framing for operational cybersecurity work. |
+| SECOPS-REG-003 | Monitoring and Detection Engineering Standard | NickLinney.SecOps | Standard | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/secops/monitoring-and-detection-engineering-standard` | Defines signal coverage, ownership, and detection-governance expectations. |
+| SECOPS-REG-004 | Incident Response and Escalation Procedure | NickLinney.SecOps | Procedure | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/secops/incident-response-and-escalation-procedure` | Defines the minimum controlled response flow for security incidents. |
 | AGIT-REG-001 | NickLinney.AutoGit | NickLinney.AutoGit | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/autogit` | Minimum procedural baseline landing page. |
 | AGIT-REG-002 | NickLinney.AutoGit Executive Baseline Abstract | NickLinney.AutoGit | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/autogit/executive-baseline-abstract` | Baseline executive framing for Git governance and automation. |
+| AGIT-REG-003 | Operational Git Workflow Standard | NickLinney.AutoGit | Standard | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/autogit/operational-git-workflow-standard` | Defines controlled branching, review, tagging, and attribution expectations. |
+| AGIT-REG-004 | Repository Lifecycle and Release Governance Standard | NickLinney.AutoGit | Standard | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/autogit/repository-lifecycle-and-release-governance-standard` | Defines repository creation, stewardship, release, and retirement governance. |
 | YUB-REG-001 | NickLinney.YubiKey | NickLinney.YubiKey | Module Landing Page | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/yubikey` | Minimum procedural baseline landing page. |
 | YUB-REG-002 | NickLinney.YubiKey Executive Baseline Abstract | NickLinney.YubiKey | Executive Baseline Abstract | Canonical | Canonical | Wiki-native baseline artifact | `/nicklinney/yubikey/executive-baseline-abstract` | Baseline executive framing for hardware-rooted identity governance. |
+| YUB-REG-003 | Enrollment and Issuance Procedure | NickLinney.YubiKey | Procedure | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/yubikey/enrollment-and-issuance-procedure` | Defines controlled issuance and enrollment of hardware trust devices. |
+| YUB-REG-004 | Recovery and Replacement Procedure | NickLinney.YubiKey | Procedure | Canonical | Canonical | Wiki-native standards-layer artifact | `/nicklinney/yubikey/recovery-and-replacement-procedure` | Defines recovery, replacement, and trust re-establishment for hardware trust devices. |
 
 ## Reconciled Source-Backed Candidate Records
 
@@ -111,7 +128,7 @@ For source-backed candidate records, the `Recovery Source` column points to the 
 ## Next Register Expansion Priorities
 
 1. Continue repository-architecture recovery beyond current planning-level evidence, especially where reusable standards or scaffolds can be directly recovered.
-2. Recover additional module-specific standards and procedures, with priority on the newly baselined modules that now have landing and executive artifacts but no governed standards yet.
+2. Recover third-layer standards, procedures, schemas, and registers for the newly matured standards-layer modules.
 3. Expand the machine-readable companion into a fuller register export including relationship and approval normalization.
 4. Begin reconciling downstream derivative records, such as meeting packages and report classes, against the new governance standards.
 
