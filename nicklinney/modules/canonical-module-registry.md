@@ -2,7 +2,7 @@
 title: NickLinney.Modules Canonical Module Registry
 description: Recovered canonical module registry defining first-class NickLinney.* modules, related products, external domains, and the layered architectural reading of the ecosystem.
 published: true
-date: 2026-07-27T10:26:44.709Z
+date: 2026-07-27T10:44:28.885Z
 tags: nicklinney, architecture, modules, registry, catalog
 editor: markdown
 dateCreated: 2026-07-27T10:26:44.709Z
@@ -16,6 +16,7 @@ dateCreated: 2026-07-27T10:26:44.709Z
 - Canonicality: Candidate Canonical
 - Recovery basis: retrieved ChatGPT export corpus
 - Recovery date: July 27, 2026
+- Reconciled against corrected canonical registry guidance on July 27, 2026
 
 ## Purpose
 
@@ -30,68 +31,79 @@ Its role is not to own functional behavior, but to preserve:
 - architectural relationships
 - separation between canonical modules and external adjacent domains
 
+## Reconciliation Notes
+
+This page has been reconciled against the corrected canonical registry guidance with these key adjustments:
+
+- `SyntheOS` is treated as a related planned product rather than a canonical Project-space module.
+- `System` is treated as a research and incubation project distinct from `NickLinney.System`.
+- `NickLinney.Contracts`, `NickLinney.Modules`, `NickLinney.YubiKey`, and `NickLinney.DataInfrastructure` are explicitly retained in the canonical module set.
+- `Network`, `Audio`, `Onyx Dragon Games`, `Homelab`, `Retail`, and `Philosophy` are explicitly excluded from the canonical module set and treated only as external domains or adjacent research spaces.
+
 ## Canonical NickLinney.* Module Registry
 
-### Core and Supporting Modules
-
-- `NickLinney.System`: ontological information model, universal entity schema, relationship model, and philosophical foundation for the ecosystem.
-- `System`: experimental predecessor research space for ontology, graph structures, and foundational architectural concepts prior to formalization.
-- `SyntheOS`: planned cognitive operating system for reasoning, planning, orchestration, memory, and cybernetic execution.
-- `NickLinney.Agents`: autonomous agents, personalities, capabilities, emotional-skill models, lifecycle management, collaboration, and governance for intelligent actors.
-- `NickLinney.SoftwareFactory`: end-to-end software production ecosystem covering planning, architecture, implementation, validation, release engineering, documentation, and AI-assisted workflows.
-- `NickLinney.Modules`: canonical module registry and component catalog maintaining ecosystem discoverability and structural relationships.
-- `NickLinney.Ops`: operational management layer for runtime systems, observability, deployment, maintenance, incident response, and production administration.
-- `NickLinney.DevOps`: CI/CD, Infrastructure as Code, deployment automation, build systems, testing, release orchestration, and development workflows.
-- `NickLinney.SecOps`: continuous monitoring, threat detection, incident response, vulnerability management, security automation, and operational defense.
-- `NickLinney.Security`: security governance framework implementing the Principle of Maximum Risk, functional safety principles, AI safety, supply-chain assurance, and risk management.
-- `NickLinney.DataInfrastructure`: enterprise information infrastructure including databases, graph stores, ontological schemas, distributed storage, synchronization, indexing, and information lifecycle management.
-- `NickLinney.Contracts`: contract-first architectural framework for interface specifications, schemas, APIs, compatibility guarantees, versioning, and interoperability.
-- `NickLinney.Strategy`: executive strategy, portfolio planning, roadmaps, organizational alignment, and long-term technology direction.
-- `NickLinney.AutoGit`: Git governance and repository lifecycle automation including branching policy, release management, semantic versioning, and repository hygiene.
-- `NickLinney.env`: standardized development environment covering workstation provisioning, shell configuration, language runtimes, tooling, and reproducible developer environments.
-- `NickLinney.YubiKey`: hardware-backed identity and authentication framework for FIDO2, PIV, SSH, GPG, secrets management, and hardware-rooted trust.
+| Module | Summary |
+| --- | --- |
+| `NickLinney.System` | Defines the canonical ontological information model, universal entity schema, architectural principles, and information substrate upon which the NickLinney.* ecosystem is constructed. Serves as the authoritative semantic foundation for every other module. |
+| `System` | Research and incubation project used to explore ontology, information theory, graph structures, cybernetic architecture, and experimental concepts prior to promotion into canonical NickLinney.* modules. |
+| `NickLinney.Agents` | Defines autonomous agents, personalities, cognitive behaviors, capabilities, lifecycle management, collaboration models, governance, and execution semantics for intelligent actors operating within the ecosystem. |
+| `NickLinney.Contracts` | Defines contract-first architecture including interface specifications, schemas, APIs, protocol definitions, compatibility guarantees, semantic versioning strategy, and interoperability between modules and services. |
+| `NickLinney.DataInfrastructure` | Defines enterprise information infrastructure including relational, graph, vector, document, and distributed databases, synchronization, indexing, metadata, storage architecture, and information lifecycle management. |
+| `NickLinney.DevOps` | Defines engineering automation including CI/CD pipelines, Infrastructure as Code, deployment strategies, build systems, testing, release engineering, and operational delivery workflows. |
+| `NickLinney.env` | Standardized development environment defining workstation provisioning, shell configuration, operating system bootstrap, language runtimes, developer tooling, and reproducible engineering environments. |
+| `NickLinney.Modules` | Canonical registry governing the classification, metadata, dependency graph, lifecycle state, ownership, compatibility, and architectural relationships of every NickLinney.* module, product, service, standard, schema, and reusable component. |
+| `NickLinney.Ops` | Defines operational governance of production systems including observability, runtime administration, maintenance, incident management, operational standards, service reliability, and day-to-day platform operations. |
+| `NickLinney.SecOps` | Defines operational cybersecurity including continuous monitoring, detection engineering, incident response, vulnerability management, security operations automation, and defensive monitoring. |
+| `NickLinney.Security` | Enterprise security governance implementing the Principle of Maximum Risk, secure architecture, AI safety, functional safety, supply-chain assurance, policy, risk management, compliance, and security engineering standards. |
+| `NickLinney.SoftwareFactory` | Defines the end-to-end software production ecosystem including project planning, architecture, implementation, validation, documentation, testing, release engineering, and AI-assisted software development methodologies. |
+| `NickLinney.Strategy` | Defines executive strategy, portfolio management, organizational governance, technology roadmaps, investment prioritization, enterprise architecture direction, and long-term planning. |
+| `NickLinney.AutoGit` | Defines Git governance including repository lifecycle management, branching strategy, release automation, semantic versioning, repository hygiene, and source control automation. |
+| `NickLinney.YubiKey` | Defines standards and procedures for hardware-backed identity, authentication, authorization, FIDO2, PIV, SSH, GPG, secrets management, and hardware-rooted trust across the ecosystem. |
 
 ## Related Products
 
-The recovered source identifies these major related products or architectural artifacts:
+These are products implemented by, or emerging from, one or more canonical modules.
 
-- `SyntheOS`: product implementing the cognitive operating system architecture.
-- `Software Factory`: AI-assisted software engineering platform and organizational methodology.
-- `The System`: ontological knowledge system and graph-based information substrate.
+| Product | Primary Module(s) | Summary |
+| --- | --- | --- |
+| `SyntheOS` | `NickLinney.System`, `NickLinney.Agents` | Planned cognitive operating system implementing autonomous reasoning, orchestration, memory, planning, and cybernetic execution. |
+| `Software Factory` | `NickLinney.SoftwareFactory` | Comprehensive AI-assisted software engineering platform and organizational methodology. |
 
 ## External Domains, Research Areas, and Downstream Consumers
 
-The recovered source explicitly separates adjacent but non-canonical ecosystem domains such as:
+These projects remain intentionally outside the canonical NickLinney.* ecosystem.
 
-- `NickLinneyDev`
-- `Business Design`
-- `Onyx Dragon Games`
-- `Retail`
-- `Network`
-- `Homelab`
-- `NickLinneyDev Cloud Infrastructure`
-- `Audio`
-- `Philosophy`
+| External Project | Classification | Relationship |
+| --- | --- | --- |
+| `NickLinneyDev` | Publisher / Public Organization | Personal brand, software publishing organization, consulting identity, and public-facing maintainer of NickLinney.* projects and products. |
+| `Business Design` | Organizational Discipline | Research into organizational architecture, governance, operating models, executive processes, and enterprise design. Frequently informs `NickLinney.Strategy` and `NickLinney.SoftwareFactory`. |
+| `Onyx Dragon Games` | Downstream Consumer | Independent business venture expected to consume and validate NickLinney.* technologies in production. |
+| `Retail` | Business Domain | Research into retail systems including ERP, POS, CRM, inventory, logistics, fulfillment, and commerce workflows that may become reference implementations. |
+| `Network` | Technical Laboratory | Research into networking, routing, switching, VLANs, Kubernetes networking, distributed systems, and infrastructure architecture. |
+| `Homelab` | Experimental Infrastructure | Physical and virtual laboratory used for prototyping, validation, Kubernetes, virtualization, AI infrastructure, storage, automation, and deployment testing. |
+| `NickLinneyDev Cloud Infrastructure` | Operational Infrastructure | Public cloud environment supporting hosted services, demonstrations, CI/CD, development, and production deployments. |
+| `Audio` | Research Domain | Personal research into acoustics, music production, restoration, recording technology, DSP, and related software tooling. |
+| `Philosophy` | Research Domain | Research into ontology, epistemology, systems theory, ethics, cybernetics, and philosophy. Provides conceptual foundations for the architecture without being a canonical module itself. |
 
-These domains may influence, validate, consume, or eventually subscribe to NickLinney.* systems without themselves automatically becoming canonical ecosystem modules.
+## Architectural Layers
 
-## Layered Architectural Reading
+| Layer | Representative Projects |
+| --- | --- |
+| `Theory` | `Philosophy`, `System`, `NickLinney.System` |
+| `Platform` | `NickLinney.System`, `NickLinney.Agents`, `NickLinney.DataInfrastructure`, future `SyntheOS` |
+| `Engineering` | `NickLinney.SoftwareFactory`, `NickLinney.DevOps`, `NickLinney.Contracts`, `NickLinney.Modules`, `NickLinney.env`, `NickLinney.AutoGit` |
+| `Operations` | `NickLinney.Ops`, `NickLinney.SecOps`, `NickLinney.Security`, `NickLinney.YubiKey` |
+| `Business` | `NickLinney.Strategy`, `NickLinneyDev`, `Business Design`, `Onyx Dragon Games`, `Retail` |
 
-The recovered source proposes a five-layer reading of the ecosystem:
+## Architectural Observation
 
-- Theory: Philosophy, System, NickLinney.System
-- Platform: SyntheOS, NickLinney.Agents, NickLinney.DataInfrastructure
-- Engineering: NickLinney.SoftwareFactory, NickLinney.DevOps, NickLinney.Contracts, NickLinney.Modules, NickLinney.env, NickLinney.AutoGit
-- Operations: NickLinney.Ops, NickLinney.SecOps, NickLinney.Security, NickLinney.YubiKey
-- Business: NickLinney.Strategy, NickLinneyDev, Business Design, Onyx Dragon Games, Retail
+The portfolio has evolved beyond a collection of independent projects into a layered enterprise architecture.
 
-## Registry Interpretation
-
-This recovered registry makes NickLinney.Modules the table of contents for the ecosystem: an authoritative structural layer for module classification, relationship mapping, and long-term discoverability.
+Within that architecture, `NickLinney.Modules` serves as the ecosystem's authoritative registry rather than a functional subsystem. Its responsibility is to maintain the canonical inventory of modules, products, standards, services, schemas, and their relationships, including lifecycle state, ownership, dependency metadata, compatibility information, and architectural classification.
 
 ## Recovery Provenance
 
-Recovered from the retrieved ChatGPT export corpus, including the `NickLinney.Modules` project chat titled `NickLinney Modules Index` and associated transcript export.
+Recovered from the retrieved ChatGPT export corpus, including the `NickLinney.Modules` project chat titled `NickLinney Modules Index`, then reconciled against the corrected canonical registry guidance supplied during wiki recovery.
 
 ## Related Pages
 
