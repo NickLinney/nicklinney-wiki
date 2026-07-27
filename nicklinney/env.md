@@ -2,7 +2,7 @@
 title: NickLinney.env
 description: Module landing page for reproducible development environments, bootstrap conventions, workstation provisioning, and tooling governance.
 published: true
-date: 2026-07-27T22:29:20.054Z
+date: 2026-07-27T22:56:52.146Z
 tags: nicklinney, module, baseline, env
 editor: markdown
 dateCreated: 2026-07-27T11:17:33.486Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-27T11:17:33.486Z
 - Canonicality: Canonical
 - Origin: Wiki-native baseline artifact
 - Created: July 27, 2026
-- Updated: July 27, 2026 with standards-layer, third-layer, and fourth-layer artifacts
+- Updated: July 27, 2026 with standards-layer, third-layer, fourth-layer, and initial worked-example artifacts
 
 ## Purpose
 
@@ -44,6 +44,10 @@ This module is expected to own:
 - [Environment Governance Decision Record](/nicklinney/env/environment-governance-decision-record)
 - [Runtime and Package Management Policy](/nicklinney/env/runtime-and-package-management-policy)
 - [Environment Recovery and Support Exception Procedure](/nicklinney/env/environment-recovery-and-support-exception-procedure)
+
+## Initial Worked Examples
+
+- [Support Exception Example — Local Wiki.js Resource Pressure (July 27, 2026)](/nicklinney/env/support-exception-example-local-wikijs-resource-pressure-2026-07-27)
 
 ## Next-Layer Priorities
 
