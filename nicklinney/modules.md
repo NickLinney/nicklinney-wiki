@@ -2,7 +2,7 @@
 title: Module Directory
 description: User-facing directory of major NickLinney.* modules and their current wiki entry points.
 published: true
-date: 2026-07-27T10:59:08.354Z
+date: 2026-07-27T11:06:37.318Z
 tags: nicklinney, modules, directory, navigation
 editor: markdown
 dateCreated: 2026-07-27T08:14:28.428Z
@@ -33,6 +33,7 @@ Documentation control, provenance, versioning, historical retention, artifact re
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
 - [Enterprise Document Register Machine-Readable Companion](/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion)
+- [Per-Module Document Object Inventory Baseline](/nicklinney/knowledge-management/per-module-document-object-inventory-baseline)
 
 ### Agents
 
@@ -81,7 +82,7 @@ Assurance, safety, governance-before-automation, and maximum-risk posture.
 - [Risk Classification Framework](/nicklinney/security/risk-classification-framework)
 
 ### Operations
-
+n
 Virtual-enterprise operating doctrine, organizational cadence, governance synchronization, and institutional memory.
 
 - [Virtual Cybernetic Enterprise Production Manual and SOP Guide](/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide)
@@ -116,6 +117,7 @@ Reusable pages for standards, products, projects, ADRs, and governance records.
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
 - [Enterprise Document Register Machine-Readable Companion](/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion)
+- [Per-Module Document Object Inventory Baseline](/nicklinney/knowledge-management/per-module-document-object-inventory-baseline)
 
 ### Agentic Organization Path
 
