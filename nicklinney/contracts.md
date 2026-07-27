@@ -2,7 +2,7 @@
 title: NickLinney.Contracts
 description: Module landing page for contract-first architecture, schemas, interfaces, compatibility rules, and interoperability governance.
 published: true
-date: 2026-07-27T11:31:28.507Z
+date: 2026-07-27T22:08:35.181Z
 tags: nicklinney, module, baseline, contracts
 editor: markdown
 dateCreated: 2026-07-27T11:17:30.285Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-27T11:17:30.285Z
 - Canonicality: Canonical
 - Origin: Wiki-native baseline artifact
 - Created: July 27, 2026
-- Updated: July 27, 2026 with standards-layer artifacts
+- Updated: July 27, 2026 with standards-layer and third-layer artifacts
 
 ## Purpose
 
@@ -40,12 +40,14 @@ This module is expected to own:
 - [NickLinney.Contracts Executive Baseline Abstract](/nicklinney/contracts/executive-baseline-abstract)
 - [Interface and Schema Taxonomy Standard](/nicklinney/contracts/interface-and-schema-taxonomy-standard)
 - [Contract Review and Approval Procedure](/nicklinney/contracts/contract-review-and-approval-procedure)
+- [Contract Artifact Register](/nicklinney/contracts/contract-artifact-register)
+- [Compatibility and Versioning Policy Hierarchy](/nicklinney/contracts/compatibility-and-versioning-policy-hierarchy)
 
 ## Next-Layer Priorities
 
-- compatibility and versioning standard
 - dependency and integration register
 - contract catalog or schema inventory
+- contract exception decision records
 
 ## Related Pages
 
