@@ -2,7 +2,7 @@
 title: NickLinney.AutoGit
 description: Module landing page for Git governance, repository lifecycle management, release automation, and source-control discipline.
 published: true
-date: 2026-07-27T22:08:39.310Z
+date: 2026-07-27T22:29:22.516Z
 tags: nicklinney, module, baseline, autogit
 editor: markdown
 dateCreated: 2026-07-27T11:17:35.595Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-27T11:17:35.595Z
 - Canonicality: Canonical
 - Origin: Wiki-native baseline artifact
 - Created: July 27, 2026
-- Updated: July 27, 2026 with standards-layer and third-layer artifacts
+- Updated: July 27, 2026 with standards-layer, third-layer, and fourth-layer artifacts
 
 ## Purpose
 
@@ -42,12 +42,14 @@ This module is expected to own:
 - [Repository Lifecycle and Release Governance Standard](/nicklinney/autogit/repository-lifecycle-and-release-governance-standard)
 - [Repository Stewardship Register](/nicklinney/autogit/repository-stewardship-register)
 - [Git Attribution Policy Record](/nicklinney/autogit/git-attribution-policy-record)
+- [Release Automation Control Procedure](/nicklinney/autogit/release-automation-control-procedure)
+- [Repository Exception and Attribution Decision Register](/nicklinney/autogit/repository-exception-and-attribution-decision-register)
 
 ## Next-Layer Priorities
 
-- release automation specification detail
-- repository exception register
-- attribution decision register for machine-assisted commits
+- release evidence population and sample governed releases
+- repository classification profile for differing stewardship models
+- automation-control mappings to approval authorities
 
 ## Related Pages
 
