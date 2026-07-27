@@ -2,7 +2,7 @@
 title: Module Directory
 description: User-facing directory of major NickLinney.* modules and their current wiki entry points.
 published: true
-date: 2026-07-27T10:28:38.555Z
+date: 2026-07-27T10:44:30.663Z
 tags: nicklinney, modules, directory, navigation
 editor: markdown
 dateCreated: 2026-07-27T08:14:28.428Z
@@ -13,6 +13,14 @@ dateCreated: 2026-07-27T08:14:28.428Z
 ## Purpose
 
 This page helps readers discover the major modules of the NickLinney.* ecosystem through a simple, user-facing directory.
+
+## Canonical Boundary
+
+This directory lists canonical NickLinney.* modules and directly related registry or strategy pages.
+
+It intentionally excludes external or personal domains such as `Network`, `Audio`, `Onyx Dragon Games`, `Homelab`, `Retail`, and `Philosophy` from the module set.
+
+`SyntheOS` should be understood here as a related planned product rather than as a canonical Project-space module.
 
 ## Featured Modules
 
@@ -26,7 +34,7 @@ Documentation control, provenance, versioning, historical retention, artifact re
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
 
 ### Governance
-
+n
 Portfolio rules, namespace discipline, repository architecture, module registry, and enterprise document inventory.
 
 - [Portfolio Model and Context Management](/nicklinney/governance/portfolio-model-and-context-management)
@@ -43,7 +51,15 @@ Long-range direction, constitutional objective, cybernetic portfolio framing, an
 
 - [Constitutional Objective / Goal 1](/nicklinney/strategy/constitutional-objective-goal-1)
 - [NickLinney Cybernetic Vision](/nicklinney/strategy/nicklinney-cybernetic-vision)
+- [NickLinney Agentic Development Strategy](/nicklinney/strategy/nicklinney-agentic-development-strategy)
 - [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry)
+
+### Platform and Core System
+
+Foundational semantics, agentic behavior, contracts, and information substrate.
+
+- [Module Registry](/nicklinney/governance/module-registry)
+- [ADR Draft — Context Isolation and Agentic Cognitive Boundaries](/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries)
 
 ### Security
 
@@ -91,6 +107,7 @@ Reusable pages for standards, products, projects, ADRs, and governance records.
 
 - [Constitutional Objective / Goal 1](/nicklinney/strategy/constitutional-objective-goal-1)
 - [NickLinney Cybernetic Vision](/nicklinney/strategy/nicklinney-cybernetic-vision)
+- [NickLinney Agentic Development Strategy](/nicklinney/strategy/nicklinney-agentic-development-strategy)
 - [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry)
 - [Module Registry](/nicklinney/governance/module-registry)
 
