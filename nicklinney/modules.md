@@ -2,7 +2,7 @@
 title: Module Directory
 description: User-facing directory of major NickLinney.* modules and their current wiki entry points.
 published: true
-date: 2026-07-27T08:14:28.428Z
+date: 2026-07-27T10:19:55.551Z
 tags: nicklinney, modules, directory, navigation
 editor: markdown
 dateCreated: 2026-07-27T08:14:28.428Z
@@ -23,6 +23,7 @@ Documentation control, provenance, versioning, historical retention, artifact re
 - [NickLinney.KnowledgeManagement](/nicklinney/knowledge-management)
 - [Knowledge Management Strategy](/nicklinney/knowledge-management/strategy)
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
+- [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
 
 ### Governance
 
@@ -34,12 +35,20 @@ Portfolio rules, namespace discipline, repository architecture, module registry,
 - [Software Documentation and Repository Architecture Standard](/nicklinney/governance/software-documentation-and-repository-architecture-standard)
 - [Enterprise Document Inventory and Artifact Register](/nicklinney/governance/enterprise-document-inventory-and-artifact-register)
 - [Module Registry](/nicklinney/governance/module-registry)
+- [Good Faith Diligence Rule](/nicklinney/governance/good-faith-diligence-rule)
 
 ### Security
 
 Assurance, safety, governance-before-automation, and maximum-risk posture.
 
 - [Safety and Assurance Charter](/nicklinney/security/safety-and-assurance-charter)
+- [Risk Classification Framework](/nicklinney/security/risk-classification-framework)
+
+### Operations
+
+Virtual-enterprise operating doctrine, organizational cadence, governance synchronization, and institutional memory.
+
+- [Virtual Cybernetic Enterprise Production Manual and SOP Guide](/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide)
 
 ### Software Development
 
@@ -68,6 +77,14 @@ Reusable pages for standards, products, projects, ADRs, and governance records.
 - [NickLinney.KnowledgeManagement](/nicklinney/knowledge-management)
 - [Knowledge Management Strategy](/nicklinney/knowledge-management/strategy)
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
+- [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
+
+### Assurance and Operations Path
+
+- [Safety and Assurance Charter](/nicklinney/security/safety-and-assurance-charter)
+- [Risk Classification Framework](/nicklinney/security/risk-classification-framework)
+- [Virtual Cybernetic Enterprise Production Manual and SOP Guide](/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide)
+- [Good Faith Diligence Rule](/nicklinney/governance/good-faith-diligence-rule)
 
 ### Standards and Controls Path
 
