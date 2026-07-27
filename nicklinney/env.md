@@ -2,7 +2,7 @@
 title: NickLinney.env
 description: Module landing page for reproducible development environments, bootstrap conventions, workstation provisioning, and tooling governance.
 published: true
-date: 2026-07-27T11:17:33.486Z
+date: 2026-07-27T11:31:31.082Z
 tags: nicklinney, module, baseline, env
 editor: markdown
 dateCreated: 2026-07-27T11:17:33.486Z
@@ -16,6 +16,7 @@ dateCreated: 2026-07-27T11:17:33.486Z
 - Canonicality: Canonical
 - Origin: Wiki-native baseline artifact
 - Created: July 27, 2026
+- Updated: July 27, 2026 with standards-layer artifacts
 
 ## Purpose
 
@@ -34,16 +35,17 @@ This module is expected to own:
 - compatibility and provisioning guidance
 - developer environment governance
 
-## Initial Documentation Objects
+## Controlled Documentation Objects
 
 - [NickLinney.env Executive Baseline Abstract](/nicklinney/env/executive-baseline-abstract)
+- [Bootstrap and Provisioning Standard](/nicklinney/env/bootstrap-and-provisioning-standard)
+- [Environment Compatibility Matrix](/nicklinney/env/environment-compatibility-matrix)
 
-## Immediate Documentation Priorities
+## Next-Layer Priorities
 
-- bootstrap and provisioning standard
 - runtime and package-management policy
-- compatibility matrix
 - development-environment recovery procedure
+- managed toolchain profile set
 
 ## Related Pages
 
