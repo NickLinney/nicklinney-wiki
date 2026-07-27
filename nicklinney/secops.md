@@ -2,7 +2,7 @@
 title: NickLinney.SecOps
 description: Module landing page for operational cybersecurity, monitoring, detection engineering, incident response, and defensive automation.
 published: true
-date: 2026-07-27T11:17:34.478Z
+date: 2026-07-27T11:31:31.842Z
 tags: nicklinney, module, baseline, secops
 editor: markdown
 dateCreated: 2026-07-27T11:17:34.478Z
@@ -16,6 +16,7 @@ dateCreated: 2026-07-27T11:17:34.478Z
 - Canonicality: Canonical
 - Origin: Wiki-native baseline artifact
 - Created: July 27, 2026
+- Updated: July 27, 2026 with standards-layer artifacts
 
 ## Purpose
 
@@ -34,16 +35,17 @@ This module is expected to own:
 - defensive automation controls
 - operational security telemetry governance
 
-## Initial Documentation Objects
+## Controlled Documentation Objects
 
 - [NickLinney.SecOps Executive Baseline Abstract](/nicklinney/secops/executive-baseline-abstract)
+- [Monitoring and Detection Engineering Standard](/nicklinney/secops/monitoring-and-detection-engineering-standard)
+- [Incident Response and Escalation Procedure](/nicklinney/secops/incident-response-and-escalation-procedure)
 
-## Immediate Documentation Priorities
+## Next-Layer Priorities
 
-- monitoring and detection architecture standard
-- incident classification and response procedures
 - vulnerability-management lifecycle record
 - security-operations reporting model
+- defensive automation governance record
 
 ## Related Pages
 
