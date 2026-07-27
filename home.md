@@ -2,7 +2,7 @@
 title: Home
 description: WikiJS home page for the NickLinney.* ecosystem knowledge base.
 published: true
-date: 2026-07-27T10:28:39.361Z
+date: 2026-07-27T10:38:22.456Z
 tags: nicklinney, home, wiki
 editor: markdown
 dateCreated: 2026-07-27T07:55:51.915Z
@@ -38,7 +38,9 @@ This wiki is the structured knowledge space for governance, architecture, securi
 - [Good Faith Diligence Rule](/nicklinney/governance/good-faith-diligence-rule)
 - [Constitutional Objective / Goal 1](/nicklinney/strategy/constitutional-objective-goal-1)
 - [NickLinney Cybernetic Vision](/nicklinney/strategy/nicklinney-cybernetic-vision)
+- [NickLinney Agentic Development Strategy](/nicklinney/strategy/nicklinney-agentic-development-strategy)
 - [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry)
+- [ADR Draft — Context Isolation and Agentic Cognitive Boundaries](/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries)
 
 ### Core Governance
 
@@ -69,8 +71,9 @@ This wiki is the structured knowledge space for governance, architecture, securi
 
 - [Constitutional Objective / Goal 1](/nicklinney/strategy/constitutional-objective-goal-1)
 - [NickLinney Cybernetic Vision](/nicklinney/strategy/nicklinney-cybernetic-vision)
+- [NickLinney Agentic Development Strategy](/nicklinney/strategy/nicklinney-agentic-development-strategy)
 - [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry)
-- [Module Registry](/nicklinney/governance/module-registry)
+- [ADR Draft — Context Isolation and Agentic Cognitive Boundaries](/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries)
 
 ### Assurance and Organizational Doctrine
 
