@@ -2,7 +2,7 @@
 title: System Incubation Project
 description: Landing page for the distinct System research and incubation space that precedes promotion into canonical NickLinney.* modules.
 published: true
-date: 2026-07-27T22:08:40.997Z
+date: 2026-07-27T22:29:24.927Z
 tags: system, baseline, incubation, research
 editor: markdown
 dateCreated: 2026-07-27T11:17:29.240Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-27T11:17:29.240Z
 - Canonicality: Canonical
 - Origin: Wiki-native baseline artifact
 - Created: July 27, 2026
-- Updated: July 27, 2026 with standards-layer and third-layer artifacts
+- Updated: July 27, 2026 with standards-layer, third-layer, and fourth-layer artifacts
 
 ## Purpose
 
@@ -50,12 +50,14 @@ This space is intended to hold:
 - [Research Experiment Index Schema](/nicklinney/system-incubation/research-experiment-index-schema)
 - [Promotion Decision Register](/nicklinney/system-incubation/promotion-decision-register)
 - [Research Cluster Taxonomy](/nicklinney/system-incubation/research-cluster-taxonomy)
+- [Experiment Lifecycle and Archival Procedure](/nicklinney/system-incubation/experiment-lifecycle-and-archival-procedure)
+- [Promotion Evidence and Supersession Record](/nicklinney/system-incubation/promotion-evidence-and-supersession-record)
 
 ## Next-Layer Priorities
 
 - experiment population records
 - thematic research cluster index entries
-- concept supersession or archival rules
+- concept lineage mappings from incubation to canonical destination artifacts
 
 ## Related Pages
 
