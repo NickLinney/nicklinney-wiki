@@ -2,7 +2,7 @@
 title: Retrieved Project Source Reconciliation
 description: Phase 2 reconciliation of retrieved ChatGPT project exports against the enterprise inventory and document register.
 published: true
-date: 2026-07-27T10:13:40.329Z
+date: 2026-07-27T11:00:43.849Z
 tags: knowledge-management, phase-2, retrieval, reconciliation, sources
 editor: markdown
 dateCreated: 2026-07-27T10:13:40.328Z
@@ -26,7 +26,7 @@ Primary retrieval root used for this pass:
 
 The corpus contains project manifests, chat inventories, transcripts, page captures, and in some cases extracted source artifacts.
 
-## Key Retrieval Projects Relevant to Phase 2
+## Key Retrieval Projects Relevant to Phase 2 and Phase 3
 
 ### Knowledge Management
 
@@ -60,8 +60,9 @@ Observed evidence:
 - `Virtual Cybernetic Enterprise Manual`
 - `Good faith diligence rule`
 - `Document Inventory & Artifacts`
+- enterprise reporting framework and layered reporting cadence material
 
-This project provides recovery leads for both governance rules and the virtual-enterprise operating document family.
+This project provides recovery leads for governance rules, the virtual-enterprise operating document family, and enterprise reporting and cabinet-governance standards.
 
 ### Modules
 
@@ -86,6 +87,29 @@ Observed evidence:
 
 This project gives stronger recovery paths for strategy-level canonical concepts referenced by the enterprise inventory.
 
+### Agents
+
+Project: `g-p-6a0df82eb84481919763836a51a1853d-nicklinney-agents`
+
+Observed evidence:
+
+- `NickLinney.Agents - Executive Project Abstract`
+- explicit recovered positioning for `NickLinney.Agents` as an organizational identity platform rather than a generic framework
+
+This project provides a strong executive-level recovery lead for the module's business and architectural purpose.
+
+### Ops / Planning
+
+Project: `g-p-6a1153728f0c819198b731c47bf16234-nicklinney-ops`
+
+Observed evidence:
+
+- planning matrix for `ADR — Context Isolation and Agentic Cognitive Boundaries`
+- planning matrix for `NickLinney.Agents` repository architecture
+- organizational cadence and meeting/report lifecycle planning dependencies
+
+This project provides partial-recovery leads for architecture and governance artifacts even where fully authored final documents have not yet been recovered.
+
 ### AutoGit
 
 Project: `g-p-6a0e1e7662fc8191897e013ed468b3e0-nicklinney-autogit`
@@ -105,12 +129,15 @@ This is not yet direct proof of every AutoGit-governed standard, but it does est
 - Good Faith Diligence Rule
 - NickLinney Modules Index
 - Document Inventory and Artifact compilation work in Business Design
+- enterprise reporting framework and layered cadence governance
+- NickLinney.Agents Executive Project Abstract
 
 ### Still Referenced but Not Yet Directly Recovered as Named Controlled Artifacts in This Pass
 
-- Repository Information Architecture Standard as a discrete named artifact in retrieved chat form
+- Repository Information Architecture Standard as a discrete final named artifact in retrieved chat form
 - Architectural Decision Record Standard as a discrete named artifact in retrieved chat form
 - Canonical Source Declaration Record as a historical artifact predating the wiki version
+- fully authored meeting/report lifecycle standard distinct from planning references
 
 ### Important Nuance
 
@@ -118,19 +145,27 @@ A retrieved chat title or transcript is evidence that a recovery source exists. 
 
 That distinction remains central to the Knowledge Management control model.
 
-## Phase 2 Outcome of This Pass
+## Phase Outcomes of This Pass
 
-This pass upgrades several enterprise register records from pure inference toward source-backed candidate canonical status and gives the wiki a concrete retrieval base for subsequent artifact recovery.
+This pass upgraded several enterprise register records from pure inference toward source-backed candidate canonical status and gave the wiki a concrete retrieval base for subsequent artifact recovery.
+
+It also enabled publication of additional next-phase artifacts, including:
+
+- `NickLinney.Agents Executive Project Abstract`
+- `NickLinney.Agents Repository Information Architecture Draft`
+- `Organizational Cadence and Enterprise Reporting Standard`
+- `Enterprise Document Register Machine-Readable Companion`
 
 ## Next Reconciliation Priorities
 
-1. Extract and normalize the `Risk Classification Framework` into a controlled wiki artifact.
-2. Recover the `Virtual Cybernetic Enterprise` document family into an authoritative operational page structure.
-3. Use the modules and strategy exports to refine the module registry and module-boundary pages.
-4. Continue scanning retrieved exports for explicit ADR, repository-architecture, and governance-record source conversations.
+1. Continue scanning retrieved exports for explicit repository-structure, ADR-standard, and governance-record source conversations.
+2. Recover additional module-specific executive abstracts and standards from the retrieved corpus.
+3. Expand structured register metadata and relationship mapping using the machine-readable companion artifact.
+4. Reconcile recovered governance cadence and meeting records against future operational derivatives.
 
 ## Related Pages
 
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
+- [Enterprise Document Register Machine-Readable Companion](/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion)
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
 - [Chat-Generated Artifact Recovery Procedure](/nicklinney/knowledge-management/chat-generated-artifact-recovery-procedure)
