@@ -2,7 +2,7 @@
 title: Enterprise Document Register
 description: Controlled register for key NickLinney.* documentation artifacts, including wiki-native records and source-backed recovery candidates.
 published: true
-date: 2026-07-27T11:00:42.922Z
+date: 2026-07-27T11:06:38.231Z
 tags: documents, register, knowledge-management, phase-2
 editor: markdown
 dateCreated: 2026-07-27T08:21:55.831Z
@@ -25,6 +25,7 @@ This current register covers:
 - newly reconciled source-backed candidate records identified from the `retrieved_projects` export corpus
 - recovered Phase 3 artifacts published on July 27, 2026
 - next-phase recovery artifacts for agent identity, reporting governance, and machine-readable register support published on July 27, 2026
+- procedural per-module inventory control artifacts published on July 27, 2026
 
 ## Controlled Wiki Records
 
@@ -40,6 +41,7 @@ This current register covers:
 | KM-REG-008 | Canonical Source Declaration Record Standard | NickLinney.KnowledgeManagement | Standard | Canonical | Canonical | Wiki-native controlled artifact | `/nicklinney/knowledge-management/canonical-source-declaration-record-standard` | Governs canonical-source resolution when duplicates exist. |
 | KM-REG-009 | Retrieved Project Source Reconciliation | NickLinney.KnowledgeManagement | Reconciliation Record | Canonical | Canonical | Wiki-native controlled artifact using retrieved export corpus | `/nicklinney/knowledge-management/retrieved-project-source-reconciliation` | Documents the first retrieval-backed reconciliation pass. |
 | KM-REG-010 | Enterprise Document Register Machine-Readable Companion | NickLinney.KnowledgeManagement | Structured Register Companion | Canonical | Canonical | Wiki-native controlled artifact informed by retrieval-backed recovery metadata | `/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion` | Adds confidence, approval authority, and supersession-ready fields for automation. |
+| KM-REG-011 | Per-Module Document Object Inventory Baseline | NickLinney.KnowledgeManagement | Inventory Baseline | Canonical | Canonical | Wiki-native controlled artifact derived from current wiki inventory and module-registry reconciliation | `/nicklinney/knowledge-management/per-module-document-object-inventory-baseline` | Baseline itemized per-module object inventory for procedural documentation passes. |
 | GOV-REG-001 | Enterprise Document Inventory and Artifact Register | Enterprise Governance / Knowledge Management | Inventory Register | Reviewed | Candidate Canonical | Wiki page synthesized from enterprise inventory matrix | `/nicklinney/governance/enterprise-document-inventory-and-artifact-register` | Strong basis for register expansion; should later be linked to structured record exports. |
 | GOV-REG-002 | Module Registry | Enterprise Governance | Registry | Reviewed | Candidate Canonical | Wiki-native synthesized artifact | `/nicklinney/governance/module-registry` | Current formal registry of recognized modules. |
 | GOV-REG-003 | Software Documentation and Repository Architecture Standard | Enterprise Governance / NickLinney.SoftwareDevelopment | Standard | Reviewed | Candidate Canonical | Derived from source document | `/nicklinney/governance/software-documentation-and-repository-architecture-standard` | High-value upstream control artifact for document structure. |
@@ -101,5 +103,6 @@ For source-backed candidate records, the `Recovery Source` column points to the 
 - [Retrieved Project Source Reconciliation](/nicklinney/knowledge-management/retrieved-project-source-reconciliation)
 - [Enterprise Document Register Schema](/nicklinney/knowledge-management/enterprise-document-register-schema)
 - [Enterprise Document Register Machine-Readable Companion](/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion)
+- [Per-Module Document Object Inventory Baseline](/nicklinney/knowledge-management/per-module-document-object-inventory-baseline)
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
 - [Enterprise Document Inventory and Artifact Register](/nicklinney/governance/enterprise-document-inventory-and-artifact-register)
