@@ -2,7 +2,7 @@
 title: Per-Module Document Object Inventory Baseline
 description: Baseline per-module inventory of current wiki document objects and procedural documentation gaps across the canonical NickLinney.* module set.
 published: true
-date: 2026-07-27T11:23:47.396Z
+date: 2026-07-27T11:34:56.387Z
 tags: inventory, documents, modules, knowledge-management, baseline
 editor: markdown
 dateCreated: 2026-07-27T11:06:35.358Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-27T11:06:35.358Z
 - Canonicality: Canonical
 - Created: July 27, 2026
 - Basis: current Wiki.JS page inventory reconciled against the canonical module registry
-- Updated: July 27, 2026 after zero-object module baseline pass
+- Updated: July 27, 2026 after zero-object and standards-layer module passes
 
 ## Purpose
 
@@ -46,21 +46,21 @@ Shared navigation pages, templates, and enterprise-wide hub pages are tracked se
 | Module | Direct Objects | Cross-Module Supporting Objects | Procedural Posture |
 | --- | ---: | ---: | --- |
 | `NickLinney.System` | 1 | 2 | Partial recovery only |
-| `System` | 2 | 1 | Minimum baseline established |
+| `System` | 4 | 1 | Standards-layer baseline established |
 | `NickLinney.Agents` | 3 | 4 | Early baseline established |
-| `NickLinney.Contracts` | 2 | 1 | Minimum baseline established |
-| `NickLinney.DataInfrastructure` | 2 | 1 | Minimum baseline established |
-| `NickLinney.DevOps` | 2 | 1 | Minimum baseline established |
-| `NickLinney.env` | 2 | 1 | Minimum baseline established |
+| `NickLinney.Contracts` | 4 | 1 | Standards-layer baseline established |
+| `NickLinney.DataInfrastructure` | 4 | 1 | Standards-layer baseline established |
+| `NickLinney.DevOps` | 4 | 1 | Standards-layer baseline established |
+| `NickLinney.env` | 4 | 1 | Standards-layer baseline established |
 | `NickLinney.KnowledgeManagement` | 13 | 3 | Strong operational baseline |
 | `NickLinney.Modules` | 2 | 2 | Registry baseline established |
 | `NickLinney.Ops` | 1 | 2 | Initial recovered baseline |
-| `NickLinney.SecOps` | 2 | 1 | Minimum baseline established |
+| `NickLinney.SecOps` | 4 | 1 | Standards-layer baseline established |
 | `NickLinney.Security` | 2 | 2 | Initial recovered baseline |
 | `NickLinney.SoftwareFactory` | 0 | 3 | Cross-module references only |
 | `NickLinney.Strategy` | 3 | 2 | Initial recovered baseline |
-| `NickLinney.AutoGit` | 2 | 1 | Minimum baseline established |
-| `NickLinney.YubiKey` | 2 | 1 | Minimum baseline established |
+| `NickLinney.AutoGit` | 4 | 1 | Standards-layer baseline established |
+| `NickLinney.YubiKey` | 4 | 1 | Standards-layer baseline established |
 
 ## Detailed Module Inventory
 
@@ -90,7 +90,7 @@ Immediate missing minimum objects:
 
 ### System
 
-Procedural posture: minimum baseline established.
+Procedural posture: standards-layer baseline established.
 
 Direct objects:
 
@@ -98,6 +98,8 @@ Direct objects:
 | --- | --- | --- | --- |
 | System Incubation Project | Project Landing Page | Canonical | `/nicklinney/system-incubation` |
 | System Executive Research Baseline | Executive Research Baseline | Canonical | `/nicklinney/system-incubation/executive-research-baseline` |
+| Canonical Promotion and Concept Review Procedure | Procedure | Canonical | `/nicklinney/system-incubation/canonical-promotion-and-concept-review-procedure` |
+| Research Experiment Index Schema | Schema | Canonical | `/nicklinney/system-incubation/research-experiment-index-schema` |
 
 Cross-module supporting objects:
 
@@ -107,9 +109,9 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- promotion criteria into canonical modules
-- experiment index
-- concept review records
+- experiment population records
+- promotion decision register
+- thematic research cluster index
 
 ### NickLinney.Agents
 
@@ -141,7 +143,7 @@ Immediate missing minimum objects:
 
 ### NickLinney.Contracts
 
-Procedural posture: minimum baseline established.
+Procedural posture: standards-layer baseline established.
 
 Direct objects:
 
@@ -149,6 +151,8 @@ Direct objects:
 | --- | --- | --- | --- |
 | NickLinney.Contracts | Module Landing Page | Canonical | `/nicklinney/contracts` |
 | NickLinney.Contracts Executive Baseline Abstract | Executive Baseline Abstract | Canonical | `/nicklinney/contracts/executive-baseline-abstract` |
+| Interface and Schema Taxonomy Standard | Standard | Canonical | `/nicklinney/contracts/interface-and-schema-taxonomy-standard` |
+| Contract Review and Approval Procedure | Procedure | Canonical | `/nicklinney/contracts/contract-review-and-approval-procedure` |
 
 Cross-module supporting objects:
 
@@ -158,14 +162,13 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- interface taxonomy
-- schema standards
-- compatibility and versioning rules
-- contract review and approval workflow
+- compatibility and versioning standard
+- dependency and integration register
+- contract catalog or schema inventory
 
 ### NickLinney.DataInfrastructure
 
-Procedural posture: minimum baseline established.
+Procedural posture: standards-layer baseline established.
 
 Direct objects:
 
@@ -173,6 +176,8 @@ Direct objects:
 | --- | --- | --- | --- |
 | NickLinney.DataInfrastructure | Module Landing Page | Canonical | `/nicklinney/data-infrastructure` |
 | NickLinney.DataInfrastructure Executive Baseline Abstract | Executive Baseline Abstract | Canonical | `/nicklinney/data-infrastructure/executive-baseline-abstract` |
+| Metadata and Indexing Standard | Standard | Canonical | `/nicklinney/data-infrastructure/metadata-and-indexing-standard` |
+| Information Lifecycle Governance Record | Governance Record | Canonical | `/nicklinney/data-infrastructure/information-lifecycle-governance-record` |
 
 Cross-module supporting objects:
 
@@ -182,14 +187,13 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- data architecture standard
-- metadata and indexing policy
-- storage and lifecycle framework
-- synchronization governance records
+- data domain and storage taxonomy
+- synchronization and replication governance
+- reference architecture for governed storage classes
 
 ### NickLinney.DevOps
 
-Procedural posture: minimum baseline established.
+Procedural posture: standards-layer baseline established.
 
 Direct objects:
 
@@ -197,6 +201,8 @@ Direct objects:
 | --- | --- | --- | --- |
 | NickLinney.DevOps | Module Landing Page | Canonical | `/nicklinney/devops` |
 | NickLinney.DevOps Executive Baseline Abstract | Executive Baseline Abstract | Canonical | `/nicklinney/devops/executive-baseline-abstract` |
+| CI/CD and Deployment Governance Standard | Standard | Canonical | `/nicklinney/devops/cicd-and-deployment-governance-standard` |
+| Release Control and Rollback Procedure | Procedure | Canonical | `/nicklinney/devops/release-control-and-rollback-procedure` |
 
 Cross-module supporting objects:
 
@@ -206,14 +212,13 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- CI/CD standard
-- infrastructure-as-code governance
-- deployment strategy records
-- release engineering procedures
+- infrastructure-as-code governance record
+- deployment target taxonomy
+- validation evidence model
 
 ### NickLinney.env
 
-Procedural posture: minimum baseline established.
+Procedural posture: standards-layer baseline established.
 
 Direct objects:
 
@@ -221,6 +226,8 @@ Direct objects:
 | --- | --- | --- | --- |
 | NickLinney.env | Module Landing Page | Canonical | `/nicklinney/env` |
 | NickLinney.env Executive Baseline Abstract | Executive Baseline Abstract | Canonical | `/nicklinney/env/executive-baseline-abstract` |
+| Bootstrap and Provisioning Standard | Standard | Canonical | `/nicklinney/env/bootstrap-and-provisioning-standard` |
+| Environment Compatibility Matrix | Structured Record | Canonical | `/nicklinney/env/environment-compatibility-matrix` |
 
 Cross-module supporting objects:
 
@@ -230,10 +237,9 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- bootstrap standard
-- compatibility matrix
-- provisioning guidance
-- environment recovery procedure
+- runtime and package-management policy
+- development-environment recovery procedure
+- managed toolchain profile set
 
 ### NickLinney.KnowledgeManagement
 
@@ -320,7 +326,7 @@ Immediate missing minimum objects:
 
 ### NickLinney.SecOps
 
-Procedural posture: minimum baseline established.
+Procedural posture: standards-layer baseline established.
 
 Direct objects:
 
@@ -328,6 +334,8 @@ Direct objects:
 | --- | --- | --- | --- |
 | NickLinney.SecOps | Module Landing Page | Canonical | `/nicklinney/secops` |
 | NickLinney.SecOps Executive Baseline Abstract | Executive Baseline Abstract | Canonical | `/nicklinney/secops/executive-baseline-abstract` |
+| Monitoring and Detection Engineering Standard | Standard | Canonical | `/nicklinney/secops/monitoring-and-detection-engineering-standard` |
+| Incident Response and Escalation Procedure | Procedure | Canonical | `/nicklinney/secops/incident-response-and-escalation-procedure` |
 
 Cross-module supporting objects:
 
@@ -337,10 +345,9 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- monitoring and detection standard
-- incident-response procedures
-- vulnerability-management lifecycle
+- vulnerability-management lifecycle record
 - security-operations reporting model
+- defensive automation governance record
 
 ### NickLinney.Security
 
@@ -414,7 +421,7 @@ Immediate missing minimum objects:
 
 ### NickLinney.AutoGit
 
-Procedural posture: minimum baseline established.
+Procedural posture: standards-layer baseline established.
 
 Direct objects:
 
@@ -422,6 +429,8 @@ Direct objects:
 | --- | --- | --- | --- |
 | NickLinney.AutoGit | Module Landing Page | Canonical | `/nicklinney/autogit` |
 | NickLinney.AutoGit Executive Baseline Abstract | Executive Baseline Abstract | Canonical | `/nicklinney/autogit/executive-baseline-abstract` |
+| Operational Git Workflow Standard | Standard | Canonical | `/nicklinney/autogit/operational-git-workflow-standard` |
+| Repository Lifecycle and Release Governance Standard | Standard | Canonical | `/nicklinney/autogit/repository-lifecycle-and-release-governance-standard` |
 
 Cross-module supporting objects:
 
@@ -431,14 +440,13 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- operational Git workflow standard
-- repository lifecycle policy
-- release automation specification
-- attribution and identity rules
+- attribution and identity rules for agentic commits
+- repository stewardship register
+- release automation specification detail
 
 ### NickLinney.YubiKey
 
-Procedural posture: minimum baseline established.
+Procedural posture: standards-layer baseline established.
 
 Direct objects:
 
@@ -446,6 +454,8 @@ Direct objects:
 | --- | --- | --- | --- |
 | NickLinney.YubiKey | Module Landing Page | Canonical | `/nicklinney/yubikey` |
 | NickLinney.YubiKey Executive Baseline Abstract | Executive Baseline Abstract | Canonical | `/nicklinney/yubikey/executive-baseline-abstract` |
+| Enrollment and Issuance Procedure | Procedure | Canonical | `/nicklinney/yubikey/enrollment-and-issuance-procedure` |
+| Recovery and Replacement Procedure | Procedure | Canonical | `/nicklinney/yubikey/recovery-and-replacement-procedure` |
 
 Cross-module supporting objects:
 
@@ -455,10 +465,9 @@ Cross-module supporting objects:
 
 Immediate missing minimum objects:
 
-- enrollment and issuance procedure
-- recovery and replacement procedure
-- authorization and trust policy
-- key-management lifecycle record
+- trust-policy and authorization standard
+- operational key-management lifecycle record
+- secrets-integration governance record
 
 ## Shared Enterprise Objects Not Counted As Direct Module Objects
 
@@ -473,7 +482,7 @@ These pages support the portfolio broadly and should remain visible in planning,
 
 To continue definitively and procedurally, the next-pass module work should be prioritized in this order:
 
-1. Modules still missing direct standards and procedures after the new baseline pass: `NickLinney.Contracts`, `NickLinney.DataInfrastructure`, `NickLinney.DevOps`, `NickLinney.env`, `NickLinney.SecOps`, `NickLinney.AutoGit`, `NickLinney.YubiKey`, and `System`.
+1. Standards-layer modules that now need their third-layer governed records: `NickLinney.Contracts`, `NickLinney.DataInfrastructure`, `NickLinney.DevOps`, `NickLinney.env`, `NickLinney.SecOps`, `NickLinney.AutoGit`, `NickLinney.YubiKey`, and `System`.
 2. Modules with partial recovery only: `NickLinney.System`, `NickLinney.Ops`, `NickLinney.Security`, and `NickLinney.SoftwareFactory`.
 3. Modules with early baseline but still incomplete direct object sets: `NickLinney.Agents`, `NickLinney.Modules`, and `NickLinney.Strategy`.
 4. Knowledge-management control refinement work that supports all later passes.
