@@ -2,7 +2,7 @@
 title: Enterprise Document Register
 description: Controlled register for key NickLinney.* documentation artifacts, including wiki-native records and source-backed recovery candidates.
 published: true
-date: 2026-07-27T10:28:36.941Z
+date: 2026-07-27T10:38:21.528Z
 tags: documents, register, knowledge-management, phase-2
 editor: markdown
 dateCreated: 2026-07-27T08:21:55.831Z
@@ -23,7 +23,7 @@ This current register covers:
 - the core Knowledge Management control artifacts created for the wiki program
 - upstream governance dependencies already represented in the wiki
 - newly reconciled source-backed candidate records identified from the `retrieved_projects` export corpus
-- first and second tranche recovered Phase 3 artifacts published on July 27, 2026
+- recovered Phase 3 artifacts published on July 27, 2026
 
 ## Controlled Wiki Records
 
@@ -42,12 +42,14 @@ This current register covers:
 | GOV-REG-002 | Module Registry | Enterprise Governance | Registry | Reviewed | Candidate Canonical | Wiki-native synthesized artifact | `/nicklinney/governance/module-registry` | Current formal registry of recognized modules. |
 | GOV-REG-003 | Software Documentation and Repository Architecture Standard | Enterprise Governance / NickLinney.SoftwareDevelopment | Standard | Reviewed | Candidate Canonical | Derived from source document | `/nicklinney/governance/software-documentation-and-repository-architecture-standard` | High-value upstream control artifact for document structure. |
 | GOV-REG-004 | Portfolio Model and Context Management | Enterprise Governance | Governance Standard | Reviewed | Candidate Canonical | Derived from source document | `/nicklinney/governance/portfolio-model-and-context-management` | Governs boundaries and context anchoring. |
-| GOV-REG-005 | Good Faith Diligence Rule | Enterprise Governance | Governance Rule | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/governance/good-faith-diligence-rule` | First Phase 3 recovery tranche. |
-| SEC-REG-001 | Risk Classification Framework | NickLinney.Security | Framework Standard | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/security/risk-classification-framework` | First Phase 3 recovery tranche. |
-| OPS-REG-001 | Virtual Cybernetic Enterprise Production Manual and SOP Guide | NickLinney.Ops / NickLinney.SoftwareFactory / NickLinney.Agents | Operating Manual / SOP | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide` | First Phase 3 recovery tranche. |
-| STR-REG-001 | Constitutional Objective / Goal 1 | NickLinney.Strategy | Strategic Objective | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/strategy/constitutional-objective-goal-1` | Second Phase 3 recovery tranche. |
-| STR-REG-002 | NickLinney Cybernetic Vision | NickLinney.Strategy | Vision Document | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/strategy/nicklinney-cybernetic-vision` | Second Phase 3 recovery tranche. |
-| MOD-REG-001 | NickLinney.Modules Canonical Module Registry | NickLinney.Modules / NickLinney.Strategy | Module Registry | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/modules/canonical-module-registry` | Second Phase 3 recovery tranche. |
+| GOV-REG-005 | Good Faith Diligence Rule | Enterprise Governance | Governance Rule | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/governance/good-faith-diligence-rule` | Recovered governance rule. |
+| SEC-REG-001 | Risk Classification Framework | NickLinney.Security | Framework Standard | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/security/risk-classification-framework` | Recovered assurance framework. |
+| OPS-REG-001 | Virtual Cybernetic Enterprise Production Manual and SOP Guide | NickLinney.Ops / NickLinney.SoftwareFactory / NickLinney.Agents | Operating Manual / SOP | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide` | Recovered operations doctrine. |
+| STR-REG-001 | Constitutional Objective / Goal 1 | NickLinney.Strategy | Strategic Objective | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/strategy/constitutional-objective-goal-1` | Recovered strategy-root objective. |
+| STR-REG-002 | NickLinney Cybernetic Vision | NickLinney.Strategy | Vision Document | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/strategy/nicklinney-cybernetic-vision` | Recovered long-range cybernetic framing. |
+| STR-REG-003 | NickLinney Agentic Development Strategy | NickLinney.Strategy / NickLinney.Agents / NickLinney.CyberSense / NickLinney.SoftwareFactory | Strategy | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/strategy/nicklinney-agentic-development-strategy` | Recovered cross-module strategy. |
+| MOD-REG-001 | NickLinney.Modules Canonical Module Registry | NickLinney.Modules / NickLinney.Strategy | Module Registry | Reviewed | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/modules/canonical-module-registry` | Recovered module-catalog structure. |
+| SYS-REG-001 | ADR Draft — Context Isolation and Agentic Cognitive Boundaries | NickLinney.System / NickLinney.Agents | ADR Draft Record | Draft | Candidate Canonical | Recovered from retrieved ChatGPT export corpus | `/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries` | Partial recovery preserving title, rationale, and intended scope. |
 
 ## Reconciled Source-Backed Candidate Records
 
@@ -58,8 +60,9 @@ This current register covers:
 | SRC-REG-003 | Good Faith Diligence Rule | Enterprise Governance | Governance Rule | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a0acd9d715c8191a9e57ae97945496e-business-design` chat `003_Good_faith_diligence_rule...` | Now normalized into a controlled wiki artifact. |
 | SRC-REG-004 | NickLinney Modules Index / Portfolio and Module Registry Lead | NickLinney.Strategy | Registry Lead | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4fd8c552f88191b6da36886c161f5f-nicklinney-modules` chat `002_NickLinney_Modules_Index...` | Now normalized into a controlled wiki artifact. |
 | SRC-REG-005 | Goal: Create Cybernetic Software Ecosystem | NickLinney.Strategy | Strategic Objective | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4ef41bd90c819189f7db15b84e5a8e-nicklinney-strategy` chat `004_Goal_Create_Cybernetic_Software_Ecosystem` | Now normalized into a controlled wiki artifact. |
-| SRC-REG-006 | NickLinney Agentic Development Strategy | NickLinney.Strategy / NickLinney.Agents / NickLinney.SoftwareFactory | Strategy | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4ef41bd90c819189f7db15b84e5a8e-nicklinney-strategy` project manifest | Source-backed lead for a later dedicated recovery page. |
+| SRC-REG-006 | NickLinney Agentic Development Strategy | NickLinney.Strategy / NickLinney.Agents / NickLinney.SoftwareFactory | Strategy | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4ef41bd90c819189f7db15b84e5a8e-nicklinney-strategy` chat `003_NickLinney_Agentic_Development_Strategy` | Now normalized into a controlled wiki artifact. |
 | SRC-REG-007 | NickLinney Cybernetic Vision | NickLinney.Strategy | Vision Document | Reviewed | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a4ef41bd90c819189f7db15b84e5a8e-nicklinney-strategy` chat `005_NickLinney_Cybernetic_Vision...` | Now normalized into a controlled wiki artifact. |
+| SRC-REG-008 | ADR — Context Isolation and Agentic Cognitive Boundaries | NickLinney.System / NickLinney.Agents | ADR Draft Lead | Draft | Candidate Canonical | Retrieved ChatGPT export corpus | `g-p-6a1153728f0c819198b731c47bf16234-nicklinney-ops` planning export | Partial recovery only; full ADR body still needs reconstruction. |
 
 ## Interpretation Notes
 
@@ -79,7 +82,7 @@ For source-backed candidate records, the `Recovery Source` column points to the 
 
 ## Next Register Expansion Priorities
 
-1. Continue governance and architecture recovery, especially ADR, repository-architecture, and operational-governance records.
+1. Continue governance and architecture recovery, especially repository-architecture, operational-governance, and meeting-record standards.
 2. Recover additional module-specific executive abstracts and standards from the retrieved corpus.
 3. Add confidence, approval authority, and supersession fields in a more structured machine-readable companion artifact.
 4. Begin reconciling external-domain references against canonical ecosystem boundaries where useful.
