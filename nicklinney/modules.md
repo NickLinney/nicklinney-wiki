@@ -2,7 +2,7 @@
 title: Module Directory
 description: User-facing directory of major NickLinney.* modules and their current wiki entry points.
 published: true
-date: 2026-07-27T11:07:18.070Z
+date: 2026-07-27T11:22:20.027Z
 tags: nicklinney, modules, directory, navigation
 editor: markdown
 dateCreated: 2026-07-27T08:14:28.428Z
@@ -44,14 +44,42 @@ Digital-worker identity, organizational roles, lifecycle governance, and recover
 - [NickLinney.Agents Repository Information Architecture Draft](/nicklinney/agents/repository-information-architecture-draft)
 - [NickLinney Agentic Development Strategy](/nicklinney/strategy/nicklinney-agentic-development-strategy)
 
+### Core and Incubation
+
+Foundational semantics, research incubation, and platform-adjacent control layers.
+
+- [System Incubation Project](/nicklinney/system-incubation)
+- [System Executive Research Baseline](/nicklinney/system-incubation/executive-research-baseline)
+- [ADR Draft — Context Isolation and Agentic Cognitive Boundaries](/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries)
+- [NickLinney.Contracts](/nicklinney/contracts)
+- [NickLinney.DataInfrastructure](/nicklinney/data-infrastructure)
+
+### Engineering and Delivery
+
+Environment governance, automation, repository discipline, and delivery control.
+
+- [NickLinney.DevOps](/nicklinney/devops)
+- [NickLinney.env](/nicklinney/env)
+- [NickLinney.AutoGit](/nicklinney/autogit)
+- [Guide and Standards](/nicklinney/software-development/guide-and-standards)
+- [Software Documentation and Repository Architecture Standard](/nicklinney/governance/software-documentation-and-repository-architecture-standard)
+
+### Security and Trust
+
+Assurance, operational security, and hardware-rooted trust.
+
+- [NickLinney.SecOps](/nicklinney/secops)
+- [NickLinney.YubiKey](/nicklinney/yubikey)
+- [Safety and Assurance Charter](/nicklinney/security/safety-and-assurance-charter)
+- [Risk Classification Framework](/nicklinney/security/risk-classification-framework)
+
 ### Governance
 
-Portfolio rules, namespace discipline, repository architecture, module registry, organizational cadence, meeting records, and enterprise document inventory.
+Portfolio rules, namespace discipline, organizational cadence, meeting records, and enterprise document inventory.
 
 - [Portfolio Model and Context Management](/nicklinney/governance/portfolio-model-and-context-management)
 - [Naming and Identification Conventions](/nicklinney/governance/naming-and-identification-conventions)
 - [Namespace Ownership and DNS Registration](/nicklinney/governance/namespace-ownership-and-dns-registration)
-- [Software Documentation and Repository Architecture Standard](/nicklinney/governance/software-documentation-and-repository-architecture-standard)
 - [Organizational Cadence and Enterprise Reporting Standard](/nicklinney/governance/organizational-cadence-and-enterprise-reporting-standard)
 - [Executive and Cabinet Meeting Record Standard](/nicklinney/governance/executive-and-cabinet-meeting-record-standard)
 - [Enterprise Document Inventory and Artifact Register](/nicklinney/governance/enterprise-document-inventory-and-artifact-register)
@@ -67,32 +95,12 @@ Long-range direction, constitutional objective, cybernetic portfolio framing, an
 - [NickLinney Agentic Development Strategy](/nicklinney/strategy/nicklinney-agentic-development-strategy)
 - [NickLinney.Modules Canonical Module Registry](/nicklinney/modules/canonical-module-registry)
 
-### Platform and Core System
-
-Foundational semantics, agentic behavior, contracts, and information substrate.
-
-- [Module Registry](/nicklinney/governance/module-registry)
-- [ADR Draft — Context Isolation and Agentic Cognitive Boundaries](/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries)
-
-### Security
-
-Assurance, safety, governance-before-automation, and maximum-risk posture.
-
-- [Safety and Assurance Charter](/nicklinney/security/safety-and-assurance-charter)
-- [Risk Classification Framework](/nicklinney/security/risk-classification-framework)
-
 ### Operations
 
 Virtual-enterprise operating doctrine, organizational cadence, governance synchronization, and institutional memory.
 
 - [Virtual Cybernetic Enterprise Production Manual and SOP Guide](/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide)
 - [Organizational Cadence and Enterprise Reporting Standard](/nicklinney/governance/organizational-cadence-and-enterprise-reporting-standard)
-
-### Software Development
-
-Engineering philosophy, lifecycle, architectural sovereignty, and development standards.
-
-- [Guide and Standards](/nicklinney/software-development/guide-and-standards)
 
 ### Templates
 
@@ -118,6 +126,17 @@ Reusable pages for standards, products, projects, ADRs, and governance records.
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
 - [Enterprise Document Register Machine-Readable Companion](/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion)
 - [Per-Module Document Object Inventory Baseline](/nicklinney/knowledge-management/per-module-document-object-inventory-baseline)
+
+### New Baseline Module Path
+
+- [System Incubation Project](/nicklinney/system-incubation)
+- [NickLinney.Contracts](/nicklinney/contracts)
+- [NickLinney.DataInfrastructure](/nicklinney/data-infrastructure)
+- [NickLinney.DevOps](/nicklinney/devops)
+- [NickLinney.env](/nicklinney/env)
+- [NickLinney.SecOps](/nicklinney/secops)
+- [NickLinney.AutoGit](/nicklinney/autogit)
+- [NickLinney.YubiKey](/nicklinney/yubikey)
 
 ### Agentic Organization Path
 
