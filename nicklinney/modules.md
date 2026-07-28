@@ -2,7 +2,7 @@
 title: Module Directory
 description: User-facing directory of major NickLinney.* modules and their current wiki entry points.
 published: true
-date: 2026-07-27T22:14:33.161Z
+date: 2026-07-28T04:32:31.898Z
 tags: nicklinney, modules, directory, navigation
 editor: markdown
 dateCreated: 2026-07-27T08:14:28.428Z
@@ -26,18 +26,13 @@ It intentionally excludes external or personal domains such as `Network`, `Audio
 
 ### Knowledge Management
 
-Documentation control, provenance, versioning, historical retention, artifact recovery, and canonical-source governance.
-
 - [NickLinney.KnowledgeManagement](/nicklinney/knowledge-management)
 - [Knowledge Management Strategy](/nicklinney/knowledge-management/strategy)
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
-- [Enterprise Document Register Machine-Readable Companion](/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion)
 - [Per-Module Document Object Inventory Baseline](/nicklinney/knowledge-management/per-module-document-object-inventory-baseline)
 
 ### Agents
-
-Digital-worker identity, organizational roles, lifecycle governance, and recovered architectural records for autonomous personnel.
 
 - [NickLinney.Agents](/nicklinney/agents)
 - [NickLinney.Agents Executive Project Abstract](/nicklinney/agents/executive-project-abstract)
@@ -46,43 +41,37 @@ Digital-worker identity, organizational roles, lifecycle governance, and recover
 
 ### Core and Incubation
 
-Foundational semantics, research incubation, and platform-adjacent control layers.
-
 - [System Incubation Project](/nicklinney/system-incubation)
-- [System Executive Research Baseline](/nicklinney/system-incubation/executive-research-baseline)
 - [Promotion Decision Register](/nicklinney/system-incubation/promotion-decision-register)
-- [Research Cluster Taxonomy](/nicklinney/system-incubation/research-cluster-taxonomy)
-- [ADR Draft — Context Isolation and Agentic Cognitive Boundaries](/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries)
+- [Experiment Lifecycle and Archival Procedure](/nicklinney/system-incubation/experiment-lifecycle-and-archival-procedure)
+- [Promotion Evidence and Supersession Record](/nicklinney/system-incubation/promotion-evidence-and-supersession-record)
 - [NickLinney.Contracts](/nicklinney/contracts)
 - [NickLinney.DataInfrastructure](/nicklinney/data-infrastructure)
 
 ### Engineering and Delivery
 
-Environment governance, automation, repository discipline, and delivery control.
-
 - [NickLinney.DevOps](/nicklinney/devops)
-- [Deployment Target Matrix](/nicklinney/devops/deployment-target-matrix)
+- [Infrastructure as Code Control Procedure](/nicklinney/devops/infrastructure-as-code-control-procedure)
+- [Deployment Validation Evidence Model](/nicklinney/devops/deployment-validation-evidence-model)
 - [NickLinney.env](/nicklinney/env)
-- [Managed Toolchain Profile Register](/nicklinney/env/managed-toolchain-profile-register)
+- [Runtime and Package Management Policy](/nicklinney/env/runtime-and-package-management-policy)
+- [Environment Recovery and Support Exception Procedure](/nicklinney/env/environment-recovery-and-support-exception-procedure)
 - [NickLinney.AutoGit](/nicklinney/autogit)
-- [Repository Stewardship Register](/nicklinney/autogit/repository-stewardship-register)
-- [Guide and Standards](/nicklinney/software-development/guide-and-standards)
-- [Software Documentation and Repository Architecture Standard](/nicklinney/governance/software-documentation-and-repository-architecture-standard)
+- [Release Automation Control Procedure](/nicklinney/autogit/release-automation-control-procedure)
+- [Repository Exception and Attribution Decision Register](/nicklinney/autogit/repository-exception-and-attribution-decision-register)
 
 ### Security and Trust
 
-Assurance, operational security, and hardware-rooted trust.
-
 - [NickLinney.SecOps](/nicklinney/secops)
-- [Security Operations Reporting Matrix](/nicklinney/secops/security-operations-reporting-matrix)
+- [Vulnerability Management Lifecycle Standard](/nicklinney/secops/vulnerability-management-lifecycle-standard)
+- [Defensive Automation Exception and Evidence Record](/nicklinney/secops/defensive-automation-exception-and-evidence-record)
 - [NickLinney.YubiKey](/nicklinney/yubikey)
-- [Hardware Trust Asset Register](/nicklinney/yubikey/hardware-trust-asset-register)
+- [Hardware Trust Lifecycle Control Standard](/nicklinney/yubikey/hardware-trust-lifecycle-control-standard)
+- [Trust Exception and Recovery Evidence Record](/nicklinney/yubikey/trust-exception-and-recovery-evidence-record)
 - [Safety and Assurance Charter](/nicklinney/security/safety-and-assurance-charter)
 - [Risk Classification Framework](/nicklinney/security/risk-classification-framework)
 
 ### Governance
-
-Portfolio rules, namespace discipline, organizational cadence, meeting records, and enterprise document inventory.
 
 - [Portfolio Model and Context Management](/nicklinney/governance/portfolio-model-and-context-management)
 - [Naming and Identification Conventions](/nicklinney/governance/naming-and-identification-conventions)
@@ -95,8 +84,6 @@ Portfolio rules, namespace discipline, organizational cadence, meeting records, 
 
 ### Strategy and Structure
 
-Long-range direction, constitutional objective, cybernetic portfolio framing, and module catalog structure.
-
 - [Constitutional Objective / Goal 1](/nicklinney/strategy/constitutional-objective-goal-1)
 - [NickLinney Cybernetic Vision](/nicklinney/strategy/nicklinney-cybernetic-vision)
 - [NickLinney Agentic Development Strategy](/nicklinney/strategy/nicklinney-agentic-development-strategy)
@@ -104,31 +91,35 @@ Long-range direction, constitutional objective, cybernetic portfolio framing, an
 
 ### Operations
 
-Virtual-enterprise operating doctrine, organizational cadence, governance synchronization, and institutional memory.
-
+- [NickLinney.Ops](/nicklinney/ops)
+- [Enterprise Capability Evaluation and Governance Framework (ECEGF)](/nicklinney/ops/enterprise-capability-evaluation-and-governance-framework)
+- [NickLinney.Ops - Operational Charter](/nicklinney/ops/ecegf/operational-charter)
+- [NickLinney.Ops - Capability Improvement Register](/nicklinney/ops/ecegf/capability-improvement-register)
 - [Virtual Cybernetic Enterprise Production Manual and SOP Guide](/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide)
 - [Organizational Cadence and Enterprise Reporting Standard](/nicklinney/governance/organizational-cadence-and-enterprise-reporting-standard)
 
 ### Templates
 
-Reusable pages for standards, products, projects, ADRs, and governance records.
-
 - [Template Library](/nicklinney/templates)
 
-## Third-Layer Control Highlights
+## Fourth-Layer Control Highlights
 
-These links surface the newest governed control objects without requiring readers to open each module first.
-
-- [Contract Artifact Register](/nicklinney/contracts/contract-artifact-register)
-- [Compatibility and Versioning Policy Hierarchy](/nicklinney/contracts/compatibility-and-versioning-policy-hierarchy)
-- [Governed Storage Class Taxonomy](/nicklinney/data-infrastructure/governed-storage-class-taxonomy)
-- [Data Infrastructure Decision Register](/nicklinney/data-infrastructure/data-infrastructure-decision-register)
-- [DevOps Change Decision Register](/nicklinney/devops/devops-change-decision-register)
-- [Environment Governance Decision Record](/nicklinney/env/environment-governance-decision-record)
-- [Security Operations Decision Register](/nicklinney/secops/security-operations-decision-register)
-- [Git Attribution Policy Record](/nicklinney/autogit/git-attribution-policy-record)
-- [YubiKey Trust Policy Hierarchy](/nicklinney/yubikey/yubikey-trust-policy-hierarchy)
-- [Promotion Decision Register](/nicklinney/system-incubation/promotion-decision-register)
+- [Contract Exception and Waiver Decision Record](/nicklinney/contracts/contract-exception-and-waiver-decision-record)
+- [Contract Validation Evidence Model](/nicklinney/contracts/contract-validation-evidence-model)
+- [Synchronization and Replication Control Procedure](/nicklinney/data-infrastructure/synchronization-and-replication-control-procedure)
+- [Metadata Stewardship and Lineage Evidence Model](/nicklinney/data-infrastructure/metadata-stewardship-and-lineage-evidence-model)
+- [Infrastructure as Code Control Procedure](/nicklinney/devops/infrastructure-as-code-control-procedure)
+- [Deployment Validation Evidence Model](/nicklinney/devops/deployment-validation-evidence-model)
+- [Runtime and Package Management Policy](/nicklinney/env/runtime-and-package-management-policy)
+- [Environment Recovery and Support Exception Procedure](/nicklinney/env/environment-recovery-and-support-exception-procedure)
+- [Vulnerability Management Lifecycle Standard](/nicklinney/secops/vulnerability-management-lifecycle-standard)
+- [Defensive Automation Exception and Evidence Record](/nicklinney/secops/defensive-automation-exception-and-evidence-record)
+- [Release Automation Control Procedure](/nicklinney/autogit/release-automation-control-procedure)
+- [Repository Exception and Attribution Decision Register](/nicklinney/autogit/repository-exception-and-attribution-decision-register)
+- [Hardware Trust Lifecycle Control Standard](/nicklinney/yubikey/hardware-trust-lifecycle-control-standard)
+- [Trust Exception and Recovery Evidence Record](/nicklinney/yubikey/trust-exception-and-recovery-evidence-record)
+- [Experiment Lifecycle and Archival Procedure](/nicklinney/system-incubation/experiment-lifecycle-and-archival-procedure)
+- [Promotion Evidence and Supersession Record](/nicklinney/system-incubation/promotion-evidence-and-supersession-record)
 
 ## Suggested Reading Paths
 
@@ -146,33 +137,7 @@ These links surface the newest governed control objects without requiring reader
 - [Knowledge Management Strategy](/nicklinney/knowledge-management/strategy)
 - [Knowledge Management Plan](/nicklinney/knowledge-management/plan)
 - [Enterprise Document Register](/nicklinney/knowledge-management/enterprise-document-register)
-- [Enterprise Document Register Machine-Readable Companion](/nicklinney/knowledge-management/enterprise-document-register-machine-readable-companion)
 - [Per-Module Document Object Inventory Baseline](/nicklinney/knowledge-management/per-module-document-object-inventory-baseline)
-
-### New Baseline Module Path
-
-- [System Incubation Project](/nicklinney/system-incubation)
-- [NickLinney.Contracts](/nicklinney/contracts)
-- [NickLinney.DataInfrastructure](/nicklinney/data-infrastructure)
-- [NickLinney.DevOps](/nicklinney/devops)
-- [NickLinney.env](/nicklinney/env)
-- [NickLinney.SecOps](/nicklinney/secops)
-- [NickLinney.AutoGit](/nicklinney/autogit)
-- [NickLinney.YubiKey](/nicklinney/yubikey)
-
-### Agentic Organization Path
-
-- [NickLinney.Agents](/nicklinney/agents)
-- [NickLinney.Agents Executive Project Abstract](/nicklinney/agents/executive-project-abstract)
-- [NickLinney Agentic Development Strategy](/nicklinney/strategy/nicklinney-agentic-development-strategy)
-- [ADR Draft — Context Isolation and Agentic Cognitive Boundaries](/nicklinney/system/adr-draft-context-isolation-and-agentic-cognitive-boundaries)
-
-### Governance and Reporting Path
-
-- [Organizational Cadence and Enterprise Reporting Standard](/nicklinney/governance/organizational-cadence-and-enterprise-reporting-standard)
-- [Executive and Cabinet Meeting Record Standard](/nicklinney/governance/executive-and-cabinet-meeting-record-standard)
-- [Good Faith Diligence Rule](/nicklinney/governance/good-faith-diligence-rule)
-- [Virtual Cybernetic Enterprise Production Manual and SOP Guide](/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide)
 
 ### Standards and Controls Path
 
