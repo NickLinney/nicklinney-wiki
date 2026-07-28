@@ -2,7 +2,7 @@
 title: Phase 2 Cabinet Meeting Minutes
 description: Phase 2 cabinet minutes adopting draft structure, evidence order, and refinement themes.
 published: true
-date: 2026-07-28T06:28:13.749Z
+date: 2026-07-28T06:51:07.582Z
 tags: ops, enterprise, cabinet, ecegf, investigation, minutes
 editor: markdown
 dateCreated: 2026-07-28T06:28:13.749Z
@@ -95,5 +95,5 @@ No tie-breaking action was required. The chair determined that the cabinet had a
 
 ## Phase 2 Output References
 
-- [Director Draft Proposal Packet.md](/Users/nrlin/Codex%20Projects/NickLinney.Wiki%20MCP%20Management/Enterprise%20Capability%20Investigation%20-%20NickLinney.Enterprise%20Ecosystem/03_Postmortem_Cabinet/02_Phase_2_Draft_Proposal/Director%20Draft%20Proposal%20Packet.md)
-- [Draft Proposal Skeleton.md](/Users/nrlin/Codex%20Projects/NickLinney.Wiki%20MCP%20Management/Enterprise%20Capability%20Investigation%20-%20NickLinney.Enterprise%20Ecosystem/03_Postmortem_Cabinet/02_Phase_2_Draft_Proposal/Draft%20Proposal%20Skeleton.md)
+- [Director Draft Proposal Packet](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-2-draft-proposal/director-draft-proposal-packet)
+- [Draft Proposal Skeleton](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-2-draft-proposal/draft-proposal-skeleton)
