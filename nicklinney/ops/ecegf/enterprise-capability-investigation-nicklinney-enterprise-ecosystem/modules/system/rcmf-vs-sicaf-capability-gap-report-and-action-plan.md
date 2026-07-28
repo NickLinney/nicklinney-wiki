@@ -2,7 +2,7 @@
 title: NickLinney.System - RCMF vs. SICAF Capability Gap Report and Action Plan
 description: NickLinney.System - RCMF vs. SICAF Capability Gap Report and Action Plan
 published: true
-date: 2026-07-28T06:34:36.652Z
+date: 2026-07-28T06:37:36.653Z
 tags: nicklinney, ops, system, ecegf, investigation
 editor: markdown
 dateCreated: 2026-07-28T06:34:36.652Z
