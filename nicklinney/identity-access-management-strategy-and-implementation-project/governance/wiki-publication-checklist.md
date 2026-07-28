@@ -2,7 +2,7 @@
 title: Wiki Publication Checklist
 description: Checklist for IAM initiative publication completeness in WikiJS.
 published: true
-date: 2026-07-28T15:21:16.637Z
+date: 2026-07-28T19:09:18.237Z
 tags: nicklinney, publication, identity-access-management, checklist
 editor: markdown
 dateCreated: 2026-07-28T09:05:20.501Z
@@ -42,3 +42,13 @@ dateCreated: 2026-07-28T09:05:20.501Z
 | RBAC Taxonomy Workshop Minutes | Complete | Published and verified | Design working-session artifact |
 | Secrets and Vault Design Review Minutes | Complete | Published and verified | Design working-session artifact |
 | Publication Readiness Review Minutes | Complete | Published and verified | Design working-session artifact |
+| Execution Phase Overview | Complete | Published and verified | Execution phase landing artifact |
+| Technical Action Plan | Complete | Published and verified | Execution control artifact |
+| Architecture Comparison and Recommendation | Complete | Published and verified | Execution decision artifact |
+| Approval Matrix Draft | Complete | Published and verified | Execution control artifact |
+| Initial Implementation Slice Plan | Complete | Published and verified | Execution slice artifact |
+| Execution Entry Cabinet Meeting Minutes | Complete | Published and verified | Execution meeting artifact |
+| Technology Comparison and Recommendation Meeting Minutes | Complete | Published and verified | Execution meeting artifact |
+| Approval Matrix and Operating Model Working Session Minutes | Complete | Published and verified | Execution meeting artifact |
+| Initial Implementation Slice Planning Meeting Minutes | Complete | Published and verified | Execution meeting artifact |
+| Execution Phase Mobilization Meeting Minutes | Complete | Published and verified | Execution meeting artifact |
