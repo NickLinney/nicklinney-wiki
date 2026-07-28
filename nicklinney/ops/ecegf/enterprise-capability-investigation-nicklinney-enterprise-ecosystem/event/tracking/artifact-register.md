@@ -2,7 +2,7 @@
 title: Artifact Register
 description: Register of parent artifacts and module package completion for the Enterprise Capability Investigation canonical project.
 published: true
-date: 2026-07-28T06:16:50.766Z
+date: 2026-07-28T07:43:03.450Z
 tags: register, ops, enterprise, ecegf, investigation, tracking
 editor: markdown
 dateCreated: 2026-07-28T06:16:50.766Z
@@ -32,6 +32,10 @@ dateCreated: 2026-07-28T06:16:50.766Z
 | ECI-NEE-GAP-001 | Module Gap and Action Plan Register | Complete | `00_Event/tracking/Module Gap and Action Plan Register.md` |
 | ECI-NEE-ENT-001 | Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan | Complete | `02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md` |
 | ECI-NEE-EIR-001 | Enterprise Improvement Register | Complete | `02_Enterprise_Synthesis/Enterprise Improvement Register.md` |
+| ECI-NEE-EXR-001 | Executive Retrospective Cabinet Activation Record | Active | `05_Executive_Retrospectives/00_Governance/Executive Retrospective Cabinet Activation Record.md` |
+| ECI-NEE-EXR-002 | Executive Cabinet Agent Assignments and Module Responsibility Matrix | Active | `05_Executive_Retrospectives/00_Governance/Executive Cabinet Agent Assignments and Module Responsibility Matrix.md` |
+| ECI-NEE-EXR-003 | Executive Retrospective Authoring Brief | Active | `05_Executive_Retrospectives/00_Governance/Executive Retrospective Authoring Brief.md` |
+| ECI-NEE-EXR-REG-001 | Executive Retrospective Register | Active | `05_Executive_Retrospectives/00_Governance/Executive Retrospective Register.md` |
 
 ## Module Package Tracking
 
