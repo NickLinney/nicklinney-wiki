@@ -2,7 +2,7 @@
 title: Wiki Publication Checklist
 description: Checklist for IAM initiative publication completeness in WikiJS.
 published: true
-date: 2026-07-28T13:54:40.935Z
+date: 2026-07-28T15:13:40.229Z
 tags: nicklinney, publication, identity-access-management, checklist
 editor: markdown
 dateCreated: 2026-07-28T09:05:20.501Z
@@ -37,3 +37,5 @@ dateCreated: 2026-07-28T09:05:20.501Z
 | Design Phase Refinement Meeting Minutes | Complete | Published and verified | Planning artifact |
 | Finalization Meeting Minutes | Complete | Published and verified | Planning artifact |
 | Design Phase Kickoff Cabinet Meeting Minutes | Complete | Published and verified | Planning artifact |
+| Design Phase Overview | Complete | Published and verified | Design phase landing artifact |
+| Systems-of-Record Review Meeting Minutes | Complete | Published and verified | First design working-session artifact |
