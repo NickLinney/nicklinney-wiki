@@ -2,7 +2,7 @@
 title: IAM Initiative Design Phase Overview
 description: Design-phase landing page for the IAM initiative.
 published: true
-date: 2026-07-28T15:12:01.257Z
+date: 2026-07-28T15:20:35.985Z
 tags: nicklinney, identity-access-management, design
 editor: markdown
 dateCreated: 2026-07-28T15:12:01.257Z
@@ -34,6 +34,9 @@ This page anchors the design phase of the `NickLinney.IdentityAccessManagement` 
 ## Design Working Sessions
 
 - [Systems-of-Record Review Meeting Minutes](/nicklinney/identity-access-management-strategy-and-implementation-project/design/systems-of-record-review-meeting-minutes)
+- [RBAC Taxonomy Workshop Minutes](/nicklinney/identity-access-management-strategy-and-implementation-project/design/rbac-taxonomy-workshop-minutes)
+- [Secrets and Vault Design Review Minutes](/nicklinney/identity-access-management-strategy-and-implementation-project/design/secrets-and-vault-design-review-minutes)
+- [Publication Readiness Review Minutes](/nicklinney/identity-access-management-strategy-and-implementation-project/design/publication-readiness-review-minutes)
 
 ## Design Constraints
 
@@ -43,4 +46,4 @@ This page anchors the design phase of the `NickLinney.IdentityAccessManagement` 
 
 ## Next Scheduled Design Session
 
-- `RBAC Taxonomy Workshop`
+- Awaiting CVO review of the published design meeting corpus
