@@ -2,7 +2,7 @@
 title: Enterprise Capability Report to the Executive Chair
 description: Director-led postmortem cabinet report to the Executive Chair summarizing high-impact findings, significant gaps, opportunities, and evidence-backed advancement paths from the Enterprise Capability Investigation.
 published: true
-date: 2026-07-28T06:03:39.417Z
+date: 2026-07-28T06:36:53.499Z
 tags: ops, enterprise, ecegf, executive-chair, investigation, report
 editor: markdown
 dateCreated: 2026-07-28T06:03:39.417Z
@@ -16,10 +16,10 @@ This artifact is the final report of the `Enterprise Capability Investigation Po
 
 Cabinet constitution and process references:
 
-- [Enterprise Capability Investigation Postmortem Cabinet Charter.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/03_Postmortem_Cabinet/00_Governance/Enterprise Capability Investigation Postmortem Cabinet Charter.md>)
-- [Phase 1 Cabinet Meeting Minutes.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/03_Postmortem_Cabinet/01_Phase_1_Initial_Notes/Phase 1 Cabinet Meeting Minutes.md>)
-- [Phase 2 Cabinet Meeting Minutes.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/03_Postmortem_Cabinet/02_Phase_2_Draft_Proposal/Phase 2 Cabinet Meeting Minutes.md>)
-- [Phase 3 Cabinet Meeting Minutes.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/03_Postmortem_Cabinet/03_Phase_3_Final_Report/Phase 3 Cabinet Meeting Minutes.md>)
+- [Enterprise Capability Investigation Postmortem Cabinet Charter](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/governance/enterprise-capability-investigation-postmortem-cabinet-charter)
+- [Phase 1 Cabinet Meeting Minutes](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-1-initial-notes/phase-1-cabinet-meeting-minutes)
+- [Phase 2 Cabinet Meeting Minutes](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-2-draft-proposal/phase-2-cabinet-meeting-minutes)
+- [Phase 3 Cabinet Meeting Minutes](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-3-final-report/phase-3-cabinet-meeting-minutes)
 
 ## Controlling Evidentiary Standard
 
@@ -27,8 +27,8 @@ This report is governed by the realization re-baseline adopted by the cabinet. O
 
 Controlling evidence:
 
-- [Realization Rebaseline Register.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/00_Event/tracking/Realization Rebaseline Register.md>)
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
+- [Realization Rebaseline Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/realization-rebaseline-register)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
 
 ## Director Team Appointed to Prepare the Report
 
@@ -42,7 +42,7 @@ The executives appointed the following director corps to prepare this report:
 
 Appointment and role reference:
 
-- [Enterprise Capability Investigation Postmortem Cabinet Charter.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/03_Postmortem_Cabinet/00_Governance/Enterprise Capability Investigation Postmortem Cabinet Charter.md>)
+- [Enterprise Capability Investigation Postmortem Cabinet Charter](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/governance/enterprise-capability-investigation-postmortem-cabinet-charter)
 
 ## Enterprise Condition in Summary
 
@@ -52,9 +52,9 @@ These three narrow-scope footholds are meaningful for governance, environment ma
 
 Primary evidence:
 
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [Module Gap and Action Plan Register.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/00_Event/tracking/Module Gap and Action Plan Register.md>)
-- [Realization Rebaseline Register.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/00_Event/tracking/Realization Rebaseline Register.md>)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [Module Gap and Action Plan Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/module-gap-and-action-plan-register)
+- [Realization Rebaseline Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/realization-rebaseline-register)
 
 ## Specific High-Impact Items
 
@@ -64,11 +64,11 @@ The cabinet identifies `NickLinney.System`, `SyntheOS`, `NickLinney.Modules`, an
 
 Primary evidence:
 
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.System - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-system/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [SyntheOS - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/syntheos/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.Modules - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-modules/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.DataInfrastructure - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-datainfrastructure/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.System - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/system/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [SyntheOS - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/syntheos/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.Modules - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/modules/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.DataInfrastructure - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/data-infrastructure/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
 
 ### Security Realization Condition
 
@@ -76,11 +76,11 @@ The cabinet identifies a high-impact security realization condition: `NickLinney
 
 Primary evidence:
 
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.Security - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-security/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.SecOps - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-secops/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.YubiKey - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-yubikey/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.Ops - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-ops/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.Security - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/security/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.SecOps - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/secops/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.YubiKey - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/yubikey/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.Ops - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/ops/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
 
 ### Documentation and Registry Integrity
 
@@ -88,10 +88,10 @@ The cabinet identifies documentation and registry integrity as a first-order ent
 
 Primary evidence:
 
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.KnowledgeManagement - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-knowledgemanagement/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.Software - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-software/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.Modules - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-modules/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.KnowledgeManagement - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/knowledge-management/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.Software - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/software/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.Modules - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/modules/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
 - [KnowledgeManagement inventory transcript](</Users/nrlin/Codex Projects/ChatGPT Project Retrieval/retrieved_projects/g-p-6a66e5c743fc819189b0a20909336efb-nicklinney-knowledgemanagement/chats/001_NickLinney_Document_InventoryAre_you_able_to_access_these_shared_links_If_so_I_would_like_for_you_to_do_the_following_1./transcript.txt>)
 
 ### Delivery-Governance Realism
@@ -100,11 +100,11 @@ The cabinet identifies `NickLinney.Strategy`, `NickLinney.SoftwareFactory`, `Nic
 
 Primary evidence:
 
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.Strategy - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-strategy/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.SoftwareFactory - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-softwarefactory/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.SoftwareDevelopment - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-softwaredevelopment/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.DevOps - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-devops/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.Strategy - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/strategy/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.SoftwareFactory - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/software-factory/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.SoftwareDevelopment - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/software-development/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.DevOps - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/devops/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
 
 ## Significant Gaps
 
@@ -116,9 +116,9 @@ Primary evidence:
 
 Primary evidence:
 
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [Realization Rebaseline Register.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/00_Event/tracking/Realization Rebaseline Register.md>)
-- [Module Gap and Action Plan Register.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/00_Event/tracking/Module Gap and Action Plan Register.md>)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [Realization Rebaseline Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/realization-rebaseline-register)
+- [Module Gap and Action Plan Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/module-gap-and-action-plan-register)
 
 ## Outstanding Opportunities
 
@@ -129,9 +129,9 @@ Primary evidence:
 
 Primary evidence:
 
-- [Phase 3 Final Refinement Packet.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/03_Postmortem_Cabinet/03_Phase_3_Final_Report/Phase 3 Final Refinement Packet.md>)
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [Module Gap and Action Plan Register.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/00_Event/tracking/Module Gap and Action Plan Register.md>)
+- [Phase 3 Final Refinement Packet](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-3-final-report/phase-3-final-refinement-packet)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [Module Gap and Action Plan Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/module-gap-and-action-plan-register)
 
 ## Recommended Paths of Gap Amelioration
 
@@ -145,10 +145,10 @@ The cabinet does not recommend scope expansion or a new intervention program at 
 
 Primary evidence:
 
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.Ops - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-ops/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.Security - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-security/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [NickLinney.Modules - RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/01_Module_Assessments/nicklinney-modules/RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.Ops - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/ops/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.Security - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/security/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [NickLinney.Modules - RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/modules/modules/rcmf-vs-sicaf-capability-gap-report-and-action-plan)
 
 ## Recommended Paths of Strategic Advancement
 
@@ -161,9 +161,9 @@ The cabinet recommends a strategic advancement path that remains realization-con
 
 Primary evidence:
 
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [Phase 3 Cabinet Meeting Minutes.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/03_Postmortem_Cabinet/03_Phase_3_Final_Report/Phase 3 Cabinet Meeting Minutes.md>)
-- [Phase 3 Final Refinement Packet.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/03_Postmortem_Cabinet/03_Phase_3_Final_Report/Phase 3 Final Refinement Packet.md>)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [Phase 3 Cabinet Meeting Minutes](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-3-final-report/phase-3-cabinet-meeting-minutes)
+- [Phase 3 Final Refinement Packet](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-3-final-report/phase-3-final-refinement-packet)
 
 ## Closing Note to the Executive Chair
 
