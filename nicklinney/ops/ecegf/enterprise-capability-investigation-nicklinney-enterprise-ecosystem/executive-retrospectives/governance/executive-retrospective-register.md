@@ -1,8 +1,8 @@
 ---
 title: Executive Retrospective Register
-description: Tracking register for executive retrospective assignments and top action-item proposals.
+description: Tracking register for completed executive retrospectives and top action-item proposals.
 published: true
-date: 2026-07-28T07:42:55.096Z
+date: 2026-07-28T10:05:22.759Z
 tags: register, ops, enterprise, executive, ecegf, investigation
 editor: markdown
 dateCreated: 2026-07-28T07:42:55.096Z
@@ -16,25 +16,47 @@ dateCreated: 2026-07-28T07:42:55.096Z
 | --- | --- |
 | Register ID | ECI-NEE-EXR-REG-001 |
 | Parent Event | ECI-NEE-2026-07-28-01 |
-| Status | Active |
+| Status | Complete |
 | Date Opened | July 28, 2026 |
 
 ## Retrospective Tracking
 
 | Executive | Assigned Agent | Module Responsibility | Retrospective Status | Top Action Item Status |
 | --- | --- | --- | --- | --- |
-| CEO | `CEO-01` | `NickLinney.BusinessDesign` | Assigned | Pending |
-| COO | `COO-01` | `NickLinney.Ops`; `NickLinney.env`; `NickLinney.InfrastructureHosting` | Assigned | Pending |
-| CVO | `CVO-01` | `NickLinney.Strategy`; `NickLinney.Modules` | Assigned | Pending |
-| CIO | `CIO-01` | `NickLinney.System`; `NickLinney.DataInfrastructure`; `NickLinney.KnowledgeManagement` | Assigned | Pending |
-| CTO | `CTO-01` | `NickLinney.Agents`; `NickLinney.AutoGit`; `NickLinney.DevOps`; `SyntheOS` | Assigned | Pending |
-| CFO | `CFO-01` | `NickLinney.Contracts` | Assigned | Pending |
-| CMO | `CMO-01` | `NickLinney.Comms` | Assigned | Pending |
-| CPO | `CPO-01` | `NickLinney.Software`; `NickLinney.SoftwareDevelopment`; `NickLinney.SoftwareFactory` | Assigned | Pending |
-| CISO | `CISO-01` | `NickLinney.Security`; `NickLinney.SecOps`; `NickLinney.YubiKey` | Assigned | Pending |
+| CEO | `CEO-01` | `NickLinney.BusinessDesign` | Complete | Declared and recorded |
+| COO | `COO-01` | `NickLinney.Ops`; `NickLinney.env`; `NickLinney.InfrastructureHosting` | Complete | Declared and recorded |
+| CVO | `CVO-01` | `NickLinney.Strategy`; `NickLinney.Modules` | Complete | Declared and recorded |
+| CIO | `CIO-01` | `NickLinney.System`; `NickLinney.DataInfrastructure`; `NickLinney.KnowledgeManagement` | Complete | Declared and recorded |
+| CTO | `CTO-01` | `NickLinney.Agents`; `NickLinney.AutoGit`; `NickLinney.DevOps`; `SyntheOS` | Complete | Declared and recorded |
+| CFO | `CFO-01` | `NickLinney.Contracts` | Complete | Declared and recorded |
+| CMO | `CMO-01` | `NickLinney.Comms` | Complete | Declared and recorded |
+| CPO | `CPO-01` | `NickLinney.Software`; `NickLinney.SoftwareDevelopment`; `NickLinney.SoftwareFactory` | Complete | Declared and recorded |
+| CISO | `CISO-01` | `NickLinney.Security`; `NickLinney.SecOps`; `NickLinney.YubiKey` | Complete | Declared and recorded |
 
-## Declared Proposal Seed
+## Declared Proposal Set
 
 | Executive | Proposal Seed | Status | Notes |
 | --- | --- | --- | --- |
+| CEO | `Business Design Operating Standards and Governance Program` | Declared | Evidence-led operating-standards proposal anchored in `NickLinney.BusinessDesign` |
+| COO | `Operations Service Catalog and Runtime Evidence Program` | Declared | Operations, environment, and hosting baseline proposal |
 | CVO | `NickLinney.IdentityAccessManagement` Strategy and Implementation Project | Declared | Forward-looking proposal seed recorded from CVO feedback; not part of the completed 2026 assessed module set |
+| CIO | `Systems of Record and Evidence Spine Program` | Declared | Systems, data, and knowledge-governance proposal |
+| CTO | `Governed Agent Runtime Pilot Program` | Declared | Bounded runtime pilot for agents, DevOps, AutoGit, and SyntheOS |
+| CFO | `Canonical Contract Lifecycle Control Program` | Declared | Contract-governance lifecycle proposal |
+| CMO | `Internal Communications Workflow Pilot Program` | Declared | Bounded communications pilot proposal |
+| CPO | `Governed Software Delivery Pilot Program` | Declared | End-to-end software delivery pilot proposal |
+| CISO | `Security Operations and Hardware Trust Pilot Program` | Declared | Security runtime and hardware trust pilot proposal |
+
+## Published Retrospectives
+
+| Executive | Artifact ID | Status | Location |
+| --- | --- | --- | --- |
+| CEO | `ECI-NEE-EXR-CEO-001` | Complete | `executive-retrospectives/chief-executive-officer/chief-executive-officer-retrospective` |
+| COO | `ECI-NEE-EXR-COO-001` | Complete | `executive-retrospectives/chief-operating-officer/chief-operating-officer-retrospective` |
+| CVO | `ECI-NEE-EXR-CVO-001` | Complete | `executive-retrospectives/chief-vision-officer/chief-vision-officer-retrospective` |
+| CIO | `ECI-NEE-EXR-CIO-001` | Complete | `executive-retrospectives/chief-information-officer/chief-information-officer-retrospective` |
+| CTO | `ECI-NEE-EXR-CTO-001` | Complete | `executive-retrospectives/chief-technology-officer/chief-technology-officer-retrospective` |
+| CFO | `ECI-NEE-EXR-CFO-001` | Complete | `executive-retrospectives/chief-financial-officer/chief-financial-officer-retrospective` |
+| CMO | `ECI-NEE-EXR-CMO-001` | Complete | `executive-retrospectives/chief-marketing-officer/chief-marketing-officer-retrospective` |
+| CPO | `ECI-NEE-EXR-CPO-001` | Complete | `executive-retrospectives/chief-product-officer/chief-product-officer-retrospective` |
+| CISO | `ECI-NEE-EXR-CISO-001` | Complete | `executive-retrospectives/chief-information-security-officer/chief-information-security-officer-retrospective` |
