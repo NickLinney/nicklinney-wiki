@@ -2,7 +2,7 @@
 title: Phase 3 Final Refinement Packet
 description: Final director amendments, cleared claims, caution flags, and approval conditions for the Executive Chair report.
 published: true
-date: 2026-07-28T06:28:23.670Z
+date: 2026-07-28T06:51:47.588Z
 tags: ops, enterprise, cabinet, ecegf, investigation, refinement
 editor: markdown
 dateCreated: 2026-07-28T06:28:23.670Z
@@ -24,9 +24,9 @@ The Phase 3 refinements carry forward three binding controls already adopted by 
 
 Primary control references:
 
-- [Realization Rebaseline Register.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/00_Event/tracking/Realization Rebaseline Register.md>)
-- [Phase 2 Cabinet Meeting Minutes.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/03_Postmortem_Cabinet/02_Phase_2_Draft_Proposal/Phase 2 Cabinet Meeting Minutes.md>)
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
+- [Realization Rebaseline Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/realization-rebaseline-register)
+- [Phase 2 Cabinet Meeting Minutes](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-2-draft-proposal/phase-2-cabinet-meeting-minutes)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
 
 ## Final Director Amendments
 
@@ -85,7 +85,7 @@ The directors converge on a common approval condition:
 
 ## Principal Evidence for Final Refinement
 
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/02_Enterprise_Synthesis/Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md>)
-- [Realization Rebaseline Register.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/00_Event/tracking/Realization Rebaseline Register.md>)
-- [Module Gap and Action Plan Register.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/00_Event/tracking/Module Gap and Action Plan Register.md>)
-- [Director Draft Proposal Packet.md](</Users/nrlin/Codex Projects/NickLinney.Wiki MCP Management/Enterprise Capability Investigation - NickLinney.Enterprise Ecosystem/03_Postmortem_Cabinet/02_Phase_2_Draft_Proposal/Director Draft Proposal Packet.md>)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [Realization Rebaseline Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/realization-rebaseline-register)
+- [Module Gap and Action Plan Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/module-gap-and-action-plan-register)
+- [Director Draft Proposal Packet](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-2-draft-proposal/director-draft-proposal-packet)
