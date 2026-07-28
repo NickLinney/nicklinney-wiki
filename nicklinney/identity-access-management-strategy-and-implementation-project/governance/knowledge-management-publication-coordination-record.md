@@ -2,7 +2,7 @@
 title: Knowledge Management Publication Coordination Record
 description: Knowledge Manager coordination record for IAM initiative wiki publication.
 published: true
-date: 2026-07-28T09:05:14.231Z
+date: 2026-07-28T09:26:45.036Z
 tags: nicklinney, knowledge-management, publication, identity-access-management
 editor: markdown
 dateCreated: 2026-07-28T09:05:14.231Z
@@ -41,6 +41,7 @@ This record governs coordination with the Knowledge Manager so that every initia
 
 ## Current Coordination Status
 
-- baseline publication package opened
-- landing-page creation required
-- page-by-page publication verification required
+- baseline publication package published into WikiJS
+- initiative root and phase landing pages verified
+- page-by-page publication verification complete
+- design-phase task commencement is paused pending CVO kickoff input
