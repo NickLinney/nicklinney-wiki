@@ -2,7 +2,7 @@
 title: Operational Event Record
 description: Operational event record establishing the scope, purpose, and child-object model for the Enterprise Capability Investigation of the NickLinney.* ecosystem.
 published: true
-date: 2026-07-28T06:15:06.395Z
+date: 2026-07-28T07:42:59.006Z
 tags: ops, enterprise, ecegf, investigation, event
 editor: markdown
 dateCreated: 2026-07-28T06:15:06.395Z
@@ -38,6 +38,7 @@ This event includes:
 - Module-level improvement tracking artifacts
 - Enterprise-level synthesis artifacts prepared after module completion
 - Postmortem cabinet artifacts and the Executive Chair report
+- Executive retrospective activation, assignment, authoring, and tracking artifacts for the next executive reflection cycle
 - Wiki publication and knowledge-management ingestion activities required to admit the investigation corpus into the canonical wiki
 
 This event excludes:
@@ -56,6 +57,7 @@ The following child object classes are governed under this event:
 - Module assessment packages
 - Enterprise synthesis artifacts
 - Postmortem cabinet artifacts
+- Executive retrospective artifacts
 - Publication and knowledge-management event records
 
 ## Evidence Limitation Statement
@@ -64,7 +66,7 @@ The current evaluation is intentionally evidence-constrained. The enterprise doe
 
 ## Current Disposition
 
-The event is opened and active. Planning, staffing, module assessment, enterprise synthesis, postmortem cabinet review, and wiki publication ingestion are all governed as parts of the same canonical investigation project.
+The event is opened and active. Planning, staffing, module assessment, enterprise synthesis, postmortem cabinet review, executive retrospective activation, and wiki publication ingestion are all governed as parts of the same canonical investigation project.
 
 ## Realization Baseline Update
 
