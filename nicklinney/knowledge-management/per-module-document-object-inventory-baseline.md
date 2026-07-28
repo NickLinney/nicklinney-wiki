@@ -2,7 +2,7 @@
 title: Per-Module Document Object Inventory Baseline
 description: Baseline per-module inventory of current wiki document objects and procedural documentation gaps across the canonical NickLinney.* module set.
 published: true
-date: 2026-07-27T22:34:29.748Z
+date: 2026-07-28T04:40:56.594Z
 tags: inventory, documents, modules, knowledge-management, baseline
 editor: markdown
 dateCreated: 2026-07-27T11:06:35.358Z
@@ -16,7 +16,7 @@ dateCreated: 2026-07-27T11:06:35.358Z
 - Canonicality: Canonical
 - Created: July 27, 2026
 - Basis: current Wiki.JS page inventory reconciled against the canonical module registry
-- Updated: July 27, 2026 after zero-object, standards-layer, third-layer, and fourth-layer module passes
+- Updated: July 28, 2026 after ECEGF publication and Ops module reconciliation
 
 ## Purpose
 
@@ -54,7 +54,7 @@ Shared navigation pages, templates, and enterprise-wide hub pages are tracked se
 | `NickLinney.env` | 8 | 1 | Fourth-layer baseline established |
 | `NickLinney.KnowledgeManagement` | 13 | 3 | Strong operational baseline |
 | `NickLinney.Modules` | 2 | 2 | Registry baseline established |
-| `NickLinney.Ops` | 1 | 2 | Initial recovered baseline |
+| `NickLinney.Ops` | 17 | 2 | ECEGF governance baseline established |
 | `NickLinney.SecOps` | 8 | 1 | Fourth-layer baseline established |
 | `NickLinney.Security` | 2 | 2 | Initial recovered baseline |
 | `NickLinney.SoftwareFactory` | 0 | 3 | Cross-module references only |
@@ -323,26 +323,42 @@ Immediate missing minimum objects:
 
 ### NickLinney.Ops
 
-Procedural posture: initial recovered baseline.
+Procedural posture: ECEGF governance baseline established.
 
 Direct objects:
 
 | Object | Class | Status | Path |
 | --- | --- | --- | --- |
+| NickLinney.Ops | Module Landing Page | Canonical | `/nicklinney/ops` |
+| Enterprise Capability Evaluation and Governance Framework (ECEGF) | Framework Hub | Canonical | `/nicklinney/ops/enterprise-capability-evaluation-and-governance-framework` |
+| NickLinney.Ops - Operational Charter | Charter | Canonical | `/nicklinney/ops/ecegf/operational-charter` |
+| NickLinney.Ops - Capability Evaluation and Reporting Standards SOP | Standard Operating Procedure | Canonical | `/nicklinney/ops/ecegf/capability-evaluation-and-reporting-standards-sop` |
+| NickLinney.Ops - An Implementor's Guide to Evaluating for SICAF | Implementor Guide | Canonical | `/nicklinney/ops/ecegf/implementors-guide-to-evaluating-for-sicaf` |
+| NickLinney.Ops - An Implementor's Guide to Evaluating for RCMF | Implementor Guide | Canonical | `/nicklinney/ops/ecegf/implementors-guide-to-evaluating-for-rcmf` |
+| NickLinney.Ops - SICAF Assessment Report | Assessment Report Template | Canonical | `/nicklinney/ops/ecegf/sicaf-assessment-report` |
+| NickLinney.Ops - RCMF Assessment Report | Assessment Report Template | Canonical | `/nicklinney/ops/ecegf/rcmf-assessment-report` |
+| NickLinney.Ops - An Implementor's Guide for Preparing an RCMF vs. SICAF Capability Gap Report | Implementor Guide | Canonical | `/nicklinney/ops/ecegf/implementors-guide-for-preparing-rcmf-vs-sicaf-capability-gap-report` |
+| NickLinney.Ops - RCMF vs. SICAF Capability Gap Report | Comparative Assessment Report | Canonical | `/nicklinney/ops/ecegf/rcmf-vs-sicaf-capability-gap-report` |
+| NickLinney.Ops - Considerations for Development of Action Planning after Capability Gap Reporting | Planning Guidance | Canonical | `/nicklinney/ops/ecegf/considerations-for-development-of-action-planning-after-capability-gap-reporting` |
+| NickLinney.Ops - RCMF vs. SICAF Capability Gap Report and Action Plan | Executive Action Plan | Canonical | `/nicklinney/ops/ecegf/rcmf-vs-sicaf-capability-gap-report-and-action-plan` |
+| NickLinney.Ops - Capability Improvement Register | Register | Canonical | `/nicklinney/ops/ecegf/capability-improvement-register` |
+| NickLinney.Ops - Publication Release ADR Event | ADR Event | Canonical | `/nicklinney/ops/ecegf/publication-release-adr-event` |
+| NickLinney.Ops - Publication Release Change Event | Change Event | Canonical | `/nicklinney/ops/ecegf/publication-release-change-event` |
+| NickLinney.Ops - Publication Release Release Event | Release Event | Canonical | `/nicklinney/ops/ecegf/publication-release-release-event` |
 | Virtual Cybernetic Enterprise Production Manual and SOP Guide | Operating Manual / SOP | Reviewed | `/nicklinney/ops/virtual-cybernetic-enterprise-production-manual-and-sop-guide` |
 
 Cross-module supporting objects:
 
 | Object | Relationship |
 | --- | --- |
-| Organizational Cadence and Enterprise Reporting Standard | Shared reporting and cadence governance. |
-| Executive and Cabinet Meeting Record Standard | Shared meeting-record control model. |
+| Organizational Cadence and Enterprise Reporting Standard | Shared cadence and reporting governance aligned with operating review routines. |
+| Executive and Cabinet Meeting Record Standard | Shared meeting-record control model supporting governance decisions and action review. |
 
 Immediate missing minimum objects:
 
-- module landing page
-- executive abstract
-- incident, observability, and service-governance records
+- populated SICAF and RCMF assessment instances using the new templates
+- worked capability-gap and action-plan examples tied to specific governed capability domains
+- operational evidence and review-history records showing the ECEGF loop in sustained use
 
 ### NickLinney.SecOps
 
@@ -514,8 +530,8 @@ These pages support the portfolio broadly and should remain visible in planning,
 
 To continue definitively and procedurally, the next-pass module work should be prioritized in this order:
 
-1. Fourth-layer baseline modules that now need populated operational records, sample evidence instances, and real control-use objects: `NickLinney.Contracts`, `NickLinney.DataInfrastructure`, `NickLinney.DevOps`, `NickLinney.env`, `NickLinney.SecOps`, `NickLinney.AutoGit`, `NickLinney.YubiKey`, and `System`.
-2. Modules with partial recovery only: `NickLinney.System`, `NickLinney.Ops`, `NickLinney.Security`, and `NickLinney.SoftwareFactory`.
+1. Fourth-layer baseline modules and the newly published Ops framework that now need populated operational records, sample evidence instances, and real control-use objects: `NickLinney.Contracts`, `NickLinney.DataInfrastructure`, `NickLinney.DevOps`, `NickLinney.env`, `NickLinney.Ops`, `NickLinney.SecOps`, `NickLinney.AutoGit`, `NickLinney.YubiKey`, and `System`.
+2. Modules with partial recovery only: `NickLinney.System`, `NickLinney.Security`, and `NickLinney.SoftwareFactory`.
 3. Modules with early baseline but still incomplete direct object sets: `NickLinney.Agents`, `NickLinney.Modules`, and `NickLinney.Strategy`.
 4. Knowledge-management control refinement work that supports later procedural population and versioned evidence handling.
 
