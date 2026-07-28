@@ -2,7 +2,7 @@
 title: Identity and Access Management Initiative Artifact Register
 description: Artifact register for the standalone IAM initiative.
 published: true
-date: 2026-07-28T15:13:27.426Z
+date: 2026-07-28T15:21:07.832Z
 tags: nicklinney, governance, register, identity-access-management
 editor: markdown
 dateCreated: 2026-07-28T09:05:10.657Z
@@ -40,3 +40,6 @@ dateCreated: 2026-07-28T09:05:10.657Z
 | NLIAM-MTG-005 | Design Phase Kickoff Cabinet Meeting Minutes | Complete | `02_Planning/Design Phase Kickoff Cabinet Meeting Minutes.md` |
 | NLIAM-DES-001 | Design Phase Overview | Complete | `03_Design/Design Phase Overview.md` |
 | NLIAM-MTG-006 | Systems-of-Record Review Meeting Minutes | Complete | `03_Design/Systems-of-Record Review Meeting Minutes.md` |
+| NLIAM-MTG-007 | RBAC Taxonomy Workshop Minutes | Complete | `03_Design/RBAC Taxonomy Workshop Minutes.md` |
+| NLIAM-MTG-008 | Secrets and Vault Design Review Minutes | Complete | `03_Design/Secrets and Vault Design Review Minutes.md` |
+| NLIAM-MTG-009 | Publication Readiness Review Minutes | Complete | `03_Design/Publication Readiness Review Minutes.md` |
