@@ -2,7 +2,7 @@
 title: Identity and Access Management Initiative Artifact Register
 description: Artifact register for the standalone IAM initiative.
 published: true
-date: 2026-07-28T15:21:07.832Z
+date: 2026-07-28T19:09:10.575Z
 tags: nicklinney, governance, register, identity-access-management
 editor: markdown
 dateCreated: 2026-07-28T09:05:10.657Z
@@ -43,3 +43,13 @@ dateCreated: 2026-07-28T09:05:10.657Z
 | NLIAM-MTG-007 | RBAC Taxonomy Workshop Minutes | Complete | `03_Design/RBAC Taxonomy Workshop Minutes.md` |
 | NLIAM-MTG-008 | Secrets and Vault Design Review Minutes | Complete | `03_Design/Secrets and Vault Design Review Minutes.md` |
 | NLIAM-MTG-009 | Publication Readiness Review Minutes | Complete | `03_Design/Publication Readiness Review Minutes.md` |
+| NLIAM-EXE-001 | Execution Phase Overview | Complete | `04_Execution/Execution Phase Overview.md` |
+| NLIAM-EXE-002 | Technical Action Plan | Complete | `04_Execution/Technical Action Plan.md` |
+| NLIAM-EXE-003 | Architecture Comparison and Recommendation | Complete | `04_Execution/Architecture Comparison and Recommendation.md` |
+| NLIAM-EXE-004 | Approval Matrix Draft | Complete | `04_Execution/Approval Matrix Draft.md` |
+| NLIAM-EXE-005 | Initial Implementation Slice Plan | Complete | `04_Execution/Initial Implementation Slice Plan.md` |
+| NLIAM-MTG-010 | Execution Entry Cabinet Meeting Minutes | Complete | `04_Execution/Execution Entry Cabinet Meeting Minutes.md` |
+| NLIAM-MTG-011 | Technology Comparison and Recommendation Meeting Minutes | Complete | `04_Execution/Technology Comparison and Recommendation Meeting Minutes.md` |
+| NLIAM-MTG-012 | Approval Matrix and Operating Model Working Session Minutes | Complete | `04_Execution/Approval Matrix and Operating Model Working Session Minutes.md` |
+| NLIAM-MTG-013 | Initial Implementation Slice Planning Meeting Minutes | Complete | `04_Execution/Initial Implementation Slice Planning Meeting Minutes.md` |
+| NLIAM-MTG-014 | Execution Phase Mobilization Meeting Minutes | Complete | `04_Execution/Execution Phase Mobilization Meeting Minutes.md` |
