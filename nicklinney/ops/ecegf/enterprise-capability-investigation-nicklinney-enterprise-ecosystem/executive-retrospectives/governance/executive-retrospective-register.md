@@ -1,8 +1,8 @@
 ---
 title: Executive Retrospective Register
-description: Tracking register for completed executive retrospectives and top action-item proposals.
+description: Corrected tracking register for completed executive retrospectives and top action-item proposals.
 published: true
-date: 2026-07-28T10:05:22.759Z
+date: 2026-07-28T10:24:25.676Z
 tags: register, ops, enterprise, executive, ecegf, investigation
 editor: markdown
 dateCreated: 2026-07-28T07:42:55.096Z
@@ -23,9 +23,8 @@ dateCreated: 2026-07-28T07:42:55.096Z
 
 | Executive | Assigned Agent | Module Responsibility | Retrospective Status | Top Action Item Status |
 | --- | --- | --- | --- | --- |
-| CEO | `CEO-01` | `NickLinney.BusinessDesign` | Complete | Declared and recorded |
 | COO | `COO-01` | `NickLinney.Ops`; `NickLinney.env`; `NickLinney.InfrastructureHosting` | Complete | Declared and recorded |
-| CVO | `CVO-01` | `NickLinney.Strategy`; `NickLinney.Modules` | Complete | Declared and recorded |
+| CVO | `CVO-01` | `NickLinney.BusinessDesign`; `NickLinney.Strategy`; `NickLinney.Modules` | Complete | Declared and recorded |
 | CIO | `CIO-01` | `NickLinney.System`; `NickLinney.DataInfrastructure`; `NickLinney.KnowledgeManagement` | Complete | Declared and recorded |
 | CTO | `CTO-01` | `NickLinney.Agents`; `NickLinney.AutoGit`; `NickLinney.DevOps`; `SyntheOS` | Complete | Declared and recorded |
 | CFO | `CFO-01` | `NickLinney.Contracts` | Complete | Declared and recorded |
@@ -37,7 +36,6 @@ dateCreated: 2026-07-28T07:42:55.096Z
 
 | Executive | Proposal Seed | Status | Notes |
 | --- | --- | --- | --- |
-| CEO | `Business Design Operating Standards and Governance Program` | Declared | Evidence-led operating-standards proposal anchored in `NickLinney.BusinessDesign` |
 | COO | `Operations Service Catalog and Runtime Evidence Program` | Declared | Operations, environment, and hosting baseline proposal |
 | CVO | `NickLinney.IdentityAccessManagement` Strategy and Implementation Project | Declared | Forward-looking proposal seed recorded from CVO feedback; not part of the completed 2026 assessed module set |
 | CIO | `Systems of Record and Evidence Spine Program` | Declared | Systems, data, and knowledge-governance proposal |
@@ -47,11 +45,14 @@ dateCreated: 2026-07-28T07:42:55.096Z
 | CPO | `Governed Software Delivery Pilot Program` | Declared | End-to-end software delivery pilot proposal |
 | CISO | `Security Operations and Hardware Trust Pilot Program` | Declared | Security runtime and hardware trust pilot proposal |
 
+## Secondary Initiative Note
+
+The `Business Design Operating Standards and Governance Program` was extracted from an erroneous CEO retrospective artifact and preserved instead as a separate secondary initiative informed by the corrected CVO retrospective.
+
 ## Published Retrospectives
 
 | Executive | Artifact ID | Status | Location |
 | --- | --- | --- | --- |
-| CEO | `ECI-NEE-EXR-CEO-001` | Complete | `executive-retrospectives/chief-executive-officer/chief-executive-officer-retrospective` |
 | COO | `ECI-NEE-EXR-COO-001` | Complete | `executive-retrospectives/chief-operating-officer/chief-operating-officer-retrospective` |
 | CVO | `ECI-NEE-EXR-CVO-001` | Complete | `executive-retrospectives/chief-vision-officer/chief-vision-officer-retrospective` |
 | CIO | `ECI-NEE-EXR-CIO-001` | Complete | `executive-retrospectives/chief-information-officer/chief-information-officer-retrospective` |
