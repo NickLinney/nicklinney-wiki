@@ -2,7 +2,7 @@
 title: Phase 1 Cabinet Meeting Minutes
 description: Phase 1 cabinet minutes adopting the realization baseline and defining priority subjects for draft work.
 published: true
-date: 2026-07-28T06:28:09.387Z
+date: 2026-07-28T06:50:39.336Z
 tags: ops, enterprise, cabinet, ecegf, investigation, minutes
 editor: markdown
 dateCreated: 2026-07-28T06:28:09.387Z
@@ -60,7 +60,7 @@ Disposition:
 
 Action item:
 
-- Recording Secretary will treat [Realization Rebaseline Register.md](/Users/nrlin/Codex%20Projects/NickLinney.Wiki%20MCP%20Management/Enterprise%20Capability%20Investigation%20-%20NickLinney.Enterprise%20Ecosystem/00_Event/tracking/Realization%20Rebaseline%20Register.md) as the controlling cabinet baseline.
+- Recording Secretary will treat [Realization Rebaseline Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/realization-rebaseline-register) as the controlling cabinet baseline.
 
 ### Item 2 - Priority Subject Classification for Phase 2
 
@@ -108,6 +108,6 @@ The chair determined that no tie-breaking action was required. The cabinet compl
 
 ## Phase 1 Output References
 
-- [Director Initial Notes Packet.md](/Users/nrlin/Codex%20Projects/NickLinney.Wiki%20MCP%20Management/Enterprise%20Capability%20Investigation%20-%20NickLinney.Enterprise%20Ecosystem/03_Postmortem_Cabinet/01_Phase_1_Initial_Notes/Director%20Initial%20Notes%20Packet.md)
-- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan.md](/Users/nrlin/Codex%20Projects/NickLinney.Wiki%20MCP%20Management/Enterprise%20Capability%20Investigation%20-%20NickLinney.Enterprise%20Ecosystem/02_Enterprise_Synthesis/Enterprise%20RCMF%20vs.%20SICAF%20Capability%20Gap%20Report%20and%20Action%20Plan.md)
-- [Module Gap and Action Plan Register.md](/Users/nrlin/Codex%20Projects/NickLinney.Wiki%20MCP%20Management/Enterprise%20Capability%20Investigation%20-%20NickLinney.Enterprise%20Ecosystem/00_Event/tracking/Module%20Gap%20and%20Action%20Plan%20Register.md)
+- [Director Initial Notes Packet](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/postmortem-cabinet/phase-1-initial-notes/director-initial-notes-packet)
+- [Enterprise RCMF vs. SICAF Capability Gap Report and Action Plan](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/enterprise-synthesis/enterprise-rcmf-vs-sicaf-capability-gap-report-and-action-plan)
+- [Module Gap and Action Plan Register](/nicklinney/ops/ecegf/enterprise-capability-investigation-nicklinney-enterprise-ecosystem/event/tracking/module-gap-and-action-plan-register)
